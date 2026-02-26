@@ -78,7 +78,6 @@ M_path_0 = [
 "image/3/6/f932cb3719765d6fe8994b9ca63.jpg",
 "image/1/3/f8f332250695e07315b3a208831.jpg",
 "image/0/1/f8f333d296e6bd6095fc82d3c10.jpg",
-"image/a/a/f8f334af20654f3d34439a342aa.jpg",
 "image/c/9/f90feb74dbc4888bd611625399c.jpg",
 "image/2/9/f8f339206503131ac35da3fdc92.jpg",
 "image/7/f/f9c120a802cb86ce11a0ee0ff7.jpg",
@@ -112,7 +111,7 @@ M_path_0 = [
 "image/1/c/f9c138b02fb20bd42e67db77dc1.jpg",
 "image/0/0/f95a2641fd427067d1dd8050c00.jpg",
 "image/8/6/f8f31ebcae3568c5dfaeca7d568.jpg",
-"GrampsPortable%5CGallery%5Csppr_3_1n_0180.jpg",
+"GrampsPortable/Gallery/sppr_3_1n_0180.jpg",
 "image/c/4/f9aa646cbc425e2f858d91ddc4c.jpg"
 ]
 Dwr.ScriptLoaded('dwr_db_M_path_0.js');

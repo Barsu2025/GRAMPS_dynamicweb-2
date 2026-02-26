@@ -47,7 +47,7 @@ C_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 97,
+"m_idx": 96,
 "note": "",
 "rect": [
 0,
@@ -61,7 +61,7 @@ C_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 96,
+"m_idx": 95,
 "note": "",
 "rect": [
 0,
@@ -89,7 +89,7 @@ C_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 90,
+"m_idx": 89,
 "note": "",
 "rect": [
 0,
@@ -261,7 +261,7 @@ C_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 102,
+"m_idx": 101,
 "note": "",
 "rect": [
 0,
@@ -476,7 +476,7 @@ C_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 86,
+"m_idx": 85,
 "note": "",
 "rect": [
 0,
@@ -753,7 +753,7 @@ C_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 88,
+"m_idx": 87,
 "note": "",
 "rect": [
 0,
@@ -765,7 +765,7 @@ C_media_0 = [
 },
 {
 "cita": [],
-"m_idx": 89,
+"m_idx": 88,
 "note": "",
 "rect": [
 0,
@@ -779,7 +779,7 @@ C_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 99,
+"m_idx": 98,
 "note": "",
 "rect": [
 0,

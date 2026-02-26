@@ -13,7 +13,13 @@ R_urls_0 = [
 "uri": "https://online.archives.ru/"
 }
 ],
-[],
+[
+{
+"descr": "\u0427\u0438\u0442\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043b \u041a\u043e\u0441\u0442\u0440\u043e\u043c\u0441\u043a\u043e\u0433\u043e \u0430\u0440\u0445\u0438\u0432\u0430",
+"type": "\u0421\u0442\u0440\u0430\u043d\u0438\u0446\u0430 \u0432 \u0441\u0435\u0442\u0438",
+"uri": "https://chitalnyj-zal.kosarchive.ru"
+}
+],
 [
 {
 "descr": "",

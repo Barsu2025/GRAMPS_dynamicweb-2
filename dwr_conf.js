@@ -4,22 +4,22 @@ DWR_VERSION_410 = true;
 DWR_VERSION_412 = true;
 DWR_VERSION_420 = true;
 DWR_VERSION_500 = true;
-TITLE = "Наше cемейное древо";
+TITLE = "Cемейное древо Зверевых";
 SPLIT = 5000;
 DB_SIZES = {
     "C": 77,
     "F": 78,
-    "I": 185,
-    "M": 113,
+    "I": 186,
+    "M": 112,
     "N": 33,
-    "P": 63,
+    "P": 61,
     "R": 24,
     "S": 50
 };NB_GENERATIONS_MAX = 10;
 PAGES_FILE = ["index.html", "", "tree_svg.html"];
 PAGES_TITLE = ["Домой", "Индексы", "Древо"];
-PAGES_FILE_INDEX = ["surnames.html", "persons.html", "sources.html", "medias.html", "places.html", "repositories.html", "address.html"];
-PAGES_TITLE_INDEX = ["Фамилии", "Люди", "Источники", "Альбом", "Места", "Хранилища", "Адреса"];
+PAGES_FILE_INDEX = ["surnames.html", "persons.html", "families.html", "sources.html", "medias.html", "places.html", "repositories.html", "address.html"];
+PAGES_TITLE_INDEX = ["Фамилии", "Люди", "Семьи", "Источники", "Альбом", "Места", "Хранилища", "Адреса"];
 SVG_TREE_TYPES_NAMES = ["Древо предков", "Древо потомков", "Древо потомков с супругами", "Древо предков и потомков", "Древо предков и потомков с супругами"];
 SVG_TREE_SHAPES_NAMES = ["Вертикально (↓)", "Вертикально (↑)", "Горизонтально (→)", "Горизонтально (←)", "Полный круг", "Полукруг", "Квадрант"];
 SVG_TREE_DISTRIB_ASC_NAMES = ["Размер пропорцианален числу предков", "Однородное распределение родителей"];
@@ -33,15 +33,15 @@ SVG_TREE_BACKGROUND_PERIOD = 4;
 SVG_TREE_BACKGROUND_WHITE = 5;
 SVG_TREE_BACKGROUND_SCHEME1 = 6;
 SVG_TREE_BACKGROUND_SCHEME2 = 7;
-SVG_TREE_TYPE = 3;
-SVG_TREE_SHAPE = 2;
-SVG_TREE_DISTRIB_ASC = 0;
-SVG_TREE_DISTRIB_DSC = 0;
-SVG_TREE_BACKGROUND = 1;
-SVG_TREE_COLOR1 = "#EF2929";
-SVG_TREE_COLOR2 = "#3D37E9";
+SVG_TREE_TYPE = 4;
+SVG_TREE_SHAPE = 0;
+SVG_TREE_DISTRIB_ASC = 1;
+SVG_TREE_DISTRIB_DSC = 1;
+SVG_TREE_BACKGROUND = 5;
+SVG_TREE_COLOR1 = "#f66151";
+SVG_TREE_COLOR2 = "#99c1f1";
 SVG_TREE_SHOW_DUP = true;
-SVG_TREE_COLOR_DUP = "#888A85";
+SVG_TREE_COLOR_DUP = "#deddda";
 CHART_BACKGROUND_NAMES = ["Одиночный цвет фильтра", "Расцветка по половому признаку", "Градиент", "Цветовая схема классического отчёта", "Цветовая схема классического вида", "Белый"];
 CHART_BACKGROUND_GENDER = 1;
 CHART_BACKGROUND_GRADIENT = 2;
@@ -69,15 +69,15 @@ SVG_TREE_COLOR_SCHEME2 = ["#e5bffc", "#bfbffc", "#bfdefc", "#b7dbc5", "#cef6d1"]
 FOOTER="";
 HEADER="";
 BRAND_TITLE="";
-COPYRIGHT="";
+COPYRIGHT="<p class=\'copyright\'>&copy; 2026 Владимир Зверев</p>";
 INDEX_SURNAMES_TYPE=false;
 INDEX_PERSONS_TYPE=true;
 INDEX_FAMILIES_TYPE=true;
 INDEX_SOURCES_TYPE=true;
 INDEX_PLACES_TYPE=true;
 INDEX_SHOW_DATES=true;
-INDEX_SHOW_PARTNER=false;
-INDEX_SHOW_PARENTS=false;
+INDEX_SHOW_PARTNER=true;
+INDEX_SHOW_PARENTS=true;
 INDEX_SHOW_PATH=false;
 INDEX_SHOW_BKREF_TYPE=false;
 INDEX_DEFAULT_SIZE = 0;
@@ -93,7 +93,7 @@ INC_NOTES=true;
 INC_ADDRESSES=true;
 MAP_PLACE=true;
 MAP_FAMILY=true;
-MAP_SERVICE="Google";
+MAP_SERVICE="OpenStreetMap";
 SOURCE_AUTHOR_IN_TITLE=false;
 TABBED_PANELS=true;
 INC_CHANGE_TIME=true;
