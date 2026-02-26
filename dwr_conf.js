@@ -4,7 +4,7 @@ DWR_VERSION_410 = true;
 DWR_VERSION_412 = true;
 DWR_VERSION_420 = true;
 DWR_VERSION_500 = true;
-TITLE = "Cемейное древо Зверевых";
+TITLE = "ΟΙΚΟΓΈΝΕΙΑ";
 SPLIT = 5000;
 DB_SIZES = {
     "C": 77,
