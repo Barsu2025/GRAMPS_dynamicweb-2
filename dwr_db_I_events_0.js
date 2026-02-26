@@ -3713,8 +3713,101 @@ I_events_0 = [
 "type": "\u0421\u043c\u0435\u0440\u0442\u044c"
 }
 ],
-[],
-[],
-[]
+[
+{
+"cita": [],
+"date": "",
+"date_sdn": 0,
+"descr": "",
+"gid": "E10026",
+"media": [],
+"part_family": [],
+"part_person": [
+183
+],
+"place": -1,
+"text": "",
+"type": "\u0420\u043e\u0436\u0434\u0435\u043d\u0438\u0435"
+},
+{
+"cita": [],
+"date": "",
+"date_sdn": 0,
+"descr": "",
+"gid": "E10027",
+"media": [],
+"part_family": [],
+"part_person": [
+183
+],
+"place": -1,
+"text": "",
+"type": "\u0421\u043c\u0435\u0440\u0442\u044c"
+}
+],
+[
+{
+"cita": [],
+"date": "",
+"date_sdn": 0,
+"descr": "",
+"gid": "E10024",
+"media": [],
+"part_family": [],
+"part_person": [
+184
+],
+"place": -1,
+"text": "",
+"type": "\u0420\u043e\u0436\u0434\u0435\u043d\u0438\u0435"
+},
+{
+"cita": [],
+"date": "",
+"date_sdn": 0,
+"descr": "",
+"gid": "E10025",
+"media": [],
+"part_family": [],
+"part_person": [
+184
+],
+"place": -1,
+"text": "",
+"type": "\u0421\u043c\u0435\u0440\u0442\u044c"
+}
+],
+[
+{
+"cita": [],
+"date": "",
+"date_sdn": 0,
+"descr": "",
+"gid": "E10028",
+"media": [],
+"part_family": [],
+"part_person": [
+185
+],
+"place": -1,
+"text": "",
+"type": "\u0420\u043e\u0436\u0434\u0435\u043d\u0438\u0435"
+},
+{
+"cita": [],
+"date": "",
+"date_sdn": 0,
+"descr": "",
+"gid": "E10029",
+"media": [],
+"part_family": [],
+"part_person": [
+185
+],
+"place": -1,
+"text": "",
+"type": "\u0421\u043c\u0435\u0440\u0442\u044c"
+}
+]
 ]
 Dwr.ScriptLoaded('dwr_db_I_events_0.js');
