@@ -360,6 +360,14 @@ S_repo_0 = [
 [
 {
 "call_number": "",
+"media_type": "\u041a\u043d\u0438\u0433\u0430",
+"note": "",
+"r_idx": 21
+}
+],
+[
+{
+"call_number": "",
 "media_type": "\u041a\u0430\u0440\u0442\u043e\u0447\u043a\u0430",
 "note": "",
 "r_idx": 22

@@ -25,9 +25,12 @@ M_bki_0 = [
 [],
 [],
 [],
+[],
+[],
+[],
 [
 {
-"bk_idx": 161,
+"bk_idx": 167,
 "cita": [],
 "note": "",
 "rect": [
@@ -41,7 +44,7 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 64,
+"bk_idx": 66,
 "cita": [],
 "note": "",
 "rect": [
@@ -55,7 +58,7 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 64,
+"bk_idx": 66,
 "cita": [],
 "note": "",
 "rect": [
@@ -70,6 +73,20 @@ M_bki_0 = [
 [],
 [],
 [],
+[
+{
+"bk_idx": 23,
+"cita": [],
+"note": "",
+"rect": [
+13,
+15,
+93,
+78
+],
+"thumb": "thumb/3/c/101ed3466a435980bfc428436cc3-13,15-93,78.png"
+}
+],
 [],
 [],
 [],
@@ -80,7 +97,7 @@ M_bki_0 = [
 [],
 [
 {
-"bk_idx": 18,
+"bk_idx": 20,
 "cita": [],
 "note": "",
 "rect": [
@@ -97,7 +114,7 @@ M_bki_0 = [
 [],
 [
 {
-"bk_idx": 26,
+"bk_idx": 28,
 "cita": [],
 "note": "",
 "rect": [
@@ -111,7 +128,7 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 26,
+"bk_idx": 28,
 "cita": [],
 "note": "",
 "rect": [
@@ -125,7 +142,7 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 26,
+"bk_idx": 28,
 "cita": [],
 "note": "",
 "rect": [
@@ -139,7 +156,7 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 26,
+"bk_idx": 28,
 "cita": [],
 "note": "",
 "rect": [
@@ -158,7 +175,7 @@ M_bki_0 = [
 [],
 [
 {
-"bk_idx": 40,
+"bk_idx": 42,
 "cita": [],
 "note": "",
 "rect": [
@@ -172,7 +189,7 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 40,
+"bk_idx": 42,
 "cita": [],
 "note": "",
 "rect": [
@@ -191,7 +208,7 @@ M_bki_0 = [
 [],
 [
 {
-"bk_idx": 86,
+"bk_idx": 88,
 "cita": [],
 "note": "",
 "rect": [
@@ -205,7 +222,7 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 31,
+"bk_idx": 33,
 "cita": [],
 "note": "",
 "rect": [
@@ -219,7 +236,7 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 31,
+"bk_idx": 33,
 "cita": [],
 "note": "",
 "rect": [
@@ -241,7 +258,7 @@ M_bki_0 = [
 [],
 [
 {
-"bk_idx": 164,
+"bk_idx": 170,
 "cita": [],
 "note": "",
 "rect": [
@@ -255,7 +272,7 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 47,
+"bk_idx": 49,
 "cita": [],
 "note": "",
 "rect": [
@@ -271,7 +288,7 @@ M_bki_0 = [
 [],
 [
 {
-"bk_idx": 27,
+"bk_idx": 29,
 "cita": [],
 "note": "",
 "rect": [
@@ -286,7 +303,7 @@ M_bki_0 = [
 [],
 [
 {
-"bk_idx": 64,
+"bk_idx": 66,
 "cita": [],
 "note": "",
 "rect": [
@@ -300,7 +317,7 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 69,
+"bk_idx": 71,
 "cita": [],
 "note": "",
 "rect": [
@@ -314,7 +331,7 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 97,
+"bk_idx": 101,
 "cita": [],
 "note": "",
 "rect": [
@@ -328,7 +345,7 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 87,
+"bk_idx": 91,
 "cita": [],
 "note": "",
 "rect": [
@@ -342,7 +359,7 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 166,
+"bk_idx": 172,
 "cita": [],
 "note": "",
 "rect": [
@@ -356,7 +373,7 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 166,
+"bk_idx": 172,
 "cita": [],
 "note": "",
 "rect": [
@@ -370,7 +387,7 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 166,
+"bk_idx": 172,
 "cita": [],
 "note": "",
 "rect": [
@@ -384,7 +401,7 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 166,
+"bk_idx": 172,
 "cita": [],
 "note": "",
 "rect": [
@@ -398,7 +415,7 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 164,
+"bk_idx": 170,
 "cita": [],
 "note": "",
 "rect": [
@@ -412,7 +429,7 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 166,
+"bk_idx": 172,
 "cita": [],
 "note": "",
 "rect": [
@@ -428,7 +445,7 @@ M_bki_0 = [
 [],
 [
 {
-"bk_idx": 134,
+"bk_idx": 138,
 "cita": [],
 "note": "",
 "rect": [
@@ -442,7 +459,7 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 134,
+"bk_idx": 138,
 "cita": [],
 "note": "",
 "rect": [
@@ -457,7 +474,7 @@ M_bki_0 = [
 [],
 [
 {
-"bk_idx": 131,
+"bk_idx": 135,
 "cita": [],
 "note": "",
 "rect": [
@@ -471,7 +488,7 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 134,
+"bk_idx": 138,
 "cita": [],
 "note": "",
 "rect": [
@@ -485,7 +502,7 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 134,
+"bk_idx": 138,
 "cita": [],
 "note": "",
 "rect": [
@@ -499,7 +516,7 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 138,
+"bk_idx": 142,
 "cita": [],
 "note": "",
 "rect": [
@@ -516,7 +533,7 @@ M_bki_0 = [
 [],
 [
 {
-"bk_idx": 180,
+"bk_idx": 186,
 "cita": [],
 "note": "",
 "rect": [
@@ -531,7 +548,7 @@ M_bki_0 = [
 [],
 [
 {
-"bk_idx": 97,
+"bk_idx": 101,
 "cita": [],
 "note": "",
 "rect": [
@@ -545,7 +562,7 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 97,
+"bk_idx": 101,
 "cita": [],
 "note": "",
 "rect": [
@@ -562,7 +579,7 @@ M_bki_0 = [
 [],
 [
 {
-"bk_idx": 12,
+"bk_idx": 14,
 "cita": [],
 "note": "",
 "rect": [
@@ -576,7 +593,7 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 166,
+"bk_idx": 172,
 "cita": [],
 "note": "",
 "rect": [
@@ -590,7 +607,7 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 166,
+"bk_idx": 172,
 "cita": [],
 "note": "",
 "rect": [
@@ -604,7 +621,7 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 166,
+"bk_idx": 172,
 "cita": [],
 "note": "",
 "rect": [
@@ -618,7 +635,7 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 177,
+"bk_idx": 183,
 "cita": [],
 "note": "",
 "rect": [
@@ -632,7 +649,7 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 177,
+"bk_idx": 183,
 "cita": [],
 "note": "",
 "rect": [
@@ -646,7 +663,7 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 44,
+"bk_idx": 46,
 "cita": [],
 "note": "",
 "rect": [

@@ -22,6 +22,8 @@ I_urls_0 = [
 [],
 [],
 [],
+[],
+[],
 [
 {
 "descr": "\u041a\u0430\u0440\u0442\u043e\u0447\u043a\u0430 \u043f\u043e\u0442\u0435\u0440\u044c \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e",
@@ -123,6 +125,8 @@ I_urls_0 = [
 [],
 [],
 [],
+[],
+[],
 [
 {
 "descr": "",
@@ -188,6 +192,11 @@ I_urls_0 = [
 "uri": "https://gwar.mil.ru/heroes/chelovek_nagradnaya_kartochka45042986/?backurl=%2Fheroes%2F%3Flast_name%3D\u0421\u0430\u043b\u044c\u043d\u0438\u043a\u043e\u0432%26first_name%3D\u0421\u0430\u0432\u0435\u043b\u0438\u0439%26groups%3Dawd%3Aptr%3Afrc%3Acmd%3Aprs%26types%3Dawd_nagrady%3Aawd_kart%3Apotery_doneseniya_o_poteryah%3Apotery_gospitali%3Apotery_spiski_zahoroneniy%3Apotery_voennoplen%3Afrc_list%3Acmd_commander%3Aprs_person%26page%3D1"
 }
 ],
+[],
+[],
+[],
+[],
+[],
 [],
 [],
 [],

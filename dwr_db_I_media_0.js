@@ -13,10 +13,12 @@ I_media_0 = [
 [],
 [],
 [],
+[],
+[],
 [
 {
 "cita": [],
-"m_idx": 104,
+"m_idx": 108,
 "note": "",
 "rect": [
 19,
@@ -35,7 +37,7 @@ I_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 38,
+"m_idx": 42,
 "note": "",
 "rect": [
 0,
@@ -48,7 +50,20 @@ I_media_0 = [
 ],
 [],
 [],
-[],
+[
+{
+"cita": [],
+"m_idx": 33,
+"note": "",
+"rect": [
+13,
+15,
+93,
+78
+],
+"thumb": "thumb/3/c/101ed3466a435980bfc428436cc3-13,15-93,78.png"
+}
+],
 [],
 [],
 [],
@@ -56,7 +71,7 @@ I_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 45,
+"m_idx": 49,
 "note": "",
 "rect": [
 0,
@@ -70,7 +85,7 @@ I_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 73,
+"m_idx": 77,
 "note": "",
 "rect": [
 0,
@@ -87,7 +102,7 @@ I_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 59,
+"m_idx": 63,
 "note": "",
 "rect": [
 0,
@@ -99,7 +114,7 @@ I_media_0 = [
 },
 {
 "cita": [],
-"m_idx": 60,
+"m_idx": 64,
 "note": "",
 "rect": [
 0,
@@ -121,7 +136,7 @@ I_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 51,
+"m_idx": 55,
 "note": "",
 "rect": [
 0,
@@ -133,7 +148,7 @@ I_media_0 = [
 },
 {
 "cita": [],
-"m_idx": 52,
+"m_idx": 56,
 "note": "",
 "rect": [
 0,
@@ -150,7 +165,7 @@ I_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 110,
+"m_idx": 114,
 "note": "",
 "rect": [
 0,
@@ -183,7 +198,7 @@ I_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 75,
+"m_idx": 79,
 "note": "",
 "rect": [
 0,
@@ -201,7 +216,7 @@ I_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 76,
+"m_idx": 80,
 "note": "",
 "rect": [
 0,
@@ -231,7 +246,7 @@ I_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 58,
+"m_idx": 62,
 "note": "",
 "rect": [
 0,
@@ -242,10 +257,12 @@ I_media_0 = [
 "thumb": "thumb/5/4/f8ffce80b8e3973716289733145.png"
 }
 ],
+[],
+[],
 [
 {
 "cita": [],
-"m_idx": 78,
+"m_idx": 82,
 "note": "",
 "rect": [
 0,
@@ -302,7 +319,7 @@ I_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 90,
+"m_idx": 94,
 "note": "",
 "rect": [
 0,
@@ -318,7 +335,7 @@ I_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 91,
+"m_idx": 95,
 "note": "",
 "rect": [
 0,
@@ -330,7 +347,7 @@ I_media_0 = [
 },
 {
 "cita": [],
-"m_idx": 92,
+"m_idx": 96,
 "note": "",
 "rect": [
 0,
@@ -347,7 +364,7 @@ I_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 93,
+"m_idx": 97,
 "note": "",
 "rect": [
 0,
@@ -380,10 +397,12 @@ I_media_0 = [
 [],
 [],
 [],
+[],
+[],
 [
 {
 "cita": [],
-"m_idx": 24,
+"m_idx": 27,
 "note": "",
 "rect": [
 0,
@@ -401,7 +420,7 @@ I_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 105,
+"m_idx": 109,
 "note": "",
 "rect": [
 0,
@@ -413,7 +432,7 @@ I_media_0 = [
 },
 {
 "cita": [],
-"m_idx": 106,
+"m_idx": 110,
 "note": "",
 "rect": [
 0,
@@ -425,7 +444,7 @@ I_media_0 = [
 },
 {
 "cita": [],
-"m_idx": 107,
+"m_idx": 111,
 "note": "",
 "rect": [
 0,
@@ -449,7 +468,7 @@ I_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 108,
+"m_idx": 112,
 "note": "",
 "rect": [
 0,
@@ -461,7 +480,7 @@ I_media_0 = [
 },
 {
 "cita": [],
-"m_idx": 109,
+"m_idx": 113,
 "note": "",
 "rect": [
 0,
@@ -477,7 +496,7 @@ I_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 97,
+"m_idx": 101,
 "note": "",
 "rect": [
 0,
@@ -488,6 +507,9 @@ I_media_0 = [
 "thumb": "thumb/1/a/f8f3306276b5d99e00f6fae34a1.png"
 }
 ],
+[],
+[],
+[],
 [],
 [],
 [],

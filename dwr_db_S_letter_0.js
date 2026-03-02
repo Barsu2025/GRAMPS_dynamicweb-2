@@ -50,6 +50,7 @@ S_letter_0 = [
 "\u0421",
 "\u0422",
 "\u0423",
+"\u0423",
 "\u0424"
 ]
 Dwr.ScriptLoaded('dwr_db_S_letter_0.js');

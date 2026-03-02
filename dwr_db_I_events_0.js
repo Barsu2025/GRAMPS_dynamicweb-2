@@ -10,6 +10,8 @@ I_events_0 = [
 [],
 [],
 [],
+[],
+[],
 [
 {
 "cita": [],
@@ -20,7 +22,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-9
+11
 ],
 "place": -1,
 "text": "",
@@ -35,7 +37,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-9
+11
 ],
 "place": -1,
 "text": "",
@@ -55,7 +57,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-13
+15
 ],
 "place": -1,
 "text": "",
@@ -70,7 +72,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-13
+15
 ],
 "place": -1,
 "text": "",
@@ -85,7 +87,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-13
+15
 ],
 "place": -1,
 "text": "",
@@ -100,7 +102,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-13
+15
 ],
 "place": -1,
 "text": "",
@@ -119,7 +121,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-14
+16
 ],
 "place": 55,
 "text": "",
@@ -138,7 +140,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-17
+19
 ],
 "place": -1,
 "text": "",
@@ -155,7 +157,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-18
+20
 ],
 "place": -1,
 "text": "",
@@ -173,7 +175,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-18
+20
 ],
 "place": -1,
 "text": "",
@@ -192,7 +194,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-19
+21
 ],
 "place": -1,
 "text": "",
@@ -212,7 +214,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-21
+23
 ],
 "place": -1,
 "text": "",
@@ -231,7 +233,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-22
+24
 ],
 "place": -1,
 "text": "",
@@ -250,7 +252,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-23
+25
 ],
 "place": -1,
 "text": "",
@@ -270,7 +272,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-25
+27
 ],
 "place": -1,
 "text": "",
@@ -281,7 +283,7 @@ I_events_0 = [
 {
 "cita": [
 3,
-67
+69
 ],
 "date": "16 \u044f\u043d\u0432 1915 (\u042e\u043b\u0438\u0430\u043d\u0441\u043a\u0438\u0439)",
 "date_sdn": 2420527,
@@ -290,7 +292,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 42,
+"m_idx": 46,
 "note": "",
 "rect": [
 0,
@@ -302,7 +304,7 @@ I_events_0 = [
 },
 {
 "cita": [],
-"m_idx": 43,
+"m_idx": 47,
 "note": "",
 "rect": [
 0,
@@ -314,7 +316,7 @@ I_events_0 = [
 },
 {
 "cita": [],
-"m_idx": 44,
+"m_idx": 48,
 "note": "",
 "rect": [
 0,
@@ -327,7 +329,7 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-26
+28
 ],
 "place": 54,
 "text": "",
@@ -344,7 +346,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-26
+28
 ],
 "place": 54,
 "text": "",
@@ -361,7 +363,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-26
+28
 ],
 "place": 58,
 "text": "<div>\n<i class=\"NoteType\">\n\u0417\u0430\u043c\u0435\u0442\u043a\u0430 \u043e \u0441\u043e\u0431\u044b\u0442\u0438\u0438\n</i>\n<div class=\"grampsstylednote\">\n<p>\n\u0410\u0440\u0445\u0438\u043f\u043e\u0432\u0430 \u0417\u043e\u044f \u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432\u043d\u0430<br />\n\u0421\u043f\u0438\u0441\u043a\u0438 \u044d\u0432\u0430\u043a\u0443\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0445<br />\n\u0414\u0430\u0442\u0430 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f<br />\n__.__.1917<br />\n\u041c\u0435\u0441\u0442\u043e \u0436\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430:<br />\n\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b., \u0433. \u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434<br />\n\u0418\u0441\u0442\u043e\u0447\u043d\u0438\u043a \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438<br />\n\u0413\u041e\u0421\u0423\u0414\u0410\u0420\u0421\u0422\u0412\u0415\u041d\u041d\u041e\u0415 \u041a\u0410\u0417\u0415\u041d\u041d\u041e\u0415 \u0423\u0427\u0420\u0415\u0416\u0414\u0415\u041d\u0418\u0415 \u041d\u041e\u0412\u041e\u0421\u0418\u0411\u0418\u0420\u0421\u041a\u041e\u0419 \u041e\u0411\u041b\u0410\u0421\u0422\u0418 \"\u0413\u041e\u0421\u0423\u0414\u0410\u0420\u0421\u0422\u0412\u0415\u041d\u041d\u042b\u0419 \u0410\u0420\u0425\u0418\u0412 \u041d\u041e\u0412\u041e\u0421\u0418\u0411\u0418\u0420\u0421\u041a\u041e\u0419 \u041e\u0411\u041b\u0410\u0421\u0422\u0418\"<br />\n\u0420\u0435\u0433\u0438\u043e\u043d<br />\n\u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c (\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0439 \u0430\u0440\u0445\u0438\u0432\u043d\u043e\u0439 \u0441\u043b\u0443\u0436\u0431\u044b \u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a\u043e\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u0438)<br />\n\u0424\u043e\u043d\u0434 \u0438\u0441\u0442. \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438<br />\n\u0420-1030<br />\n\u041e\u043f\u0438\u0441\u044c \u0438\u0441\u0442. \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438<br />\n1<br />\n\u0414\u0435\u043b\u043e \u0438\u0441\u0442. \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438<br />\n254<br />\nhttps://blockade.spb.ru/card/?id=312773&amp;source=persons_different&amp;last_name=\u0410\u0440\u0445\u0438\u043f\u043e\u0432\u0430&amp;first_name=\u0417\u043e\u044f&amp;page-nav=page-2\n</p>\n</div>\n</div>",
@@ -378,7 +380,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-26
+28
 ],
 "place": 38,
 "text": "<div>\n<p>\n<b>\u041f\u0440\u0438\u0447\u0438\u043d\u0430</b>: \u0410\u0442\u0435\u0440\u043e\u0441\u043a\u043b\u0435\u0440\u043e\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043f\u043e\u0441\u0442\u0438\u043d\u0444\u0430\u0440\u043a\u0442\u043d\u044b\u0439 \u043a\u0430\u0440\u0434\u0438\u043e\u0441\u043a\u043b\u0435\u0440\u043e\u0437\n</p>\n</div>",
@@ -397,7 +399,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-27
+29
 ],
 "place": 38,
 "text": "",
@@ -414,7 +416,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-27
+29
 ],
 "place": 58,
 "text": "<div>\n<i class=\"NoteType\">\n\u0417\u0430\u043c\u0435\u0442\u043a\u0430 \u043e \u0441\u043e\u0431\u044b\u0442\u0438\u0438\n</i>\n<div class=\"grampsstylednote\">\n<p>\n\u0410\u0440\u0445\u0438\u043f\u043e\u0432\u0430 \u041c\u0430\u0440\u0438\u044f \u0418\u0432\u0430\u043d\u043e\u0432\u043d\u0430<br />\n\u041e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0435 \u043a \u0433\u043b\u0430\u0432\u0435 \u0441\u0435\u043c\u044c\u0438(\u0417\u043e\u044f): \u043c\u0430\u0442\u044c<br />\n\u041f\u043e\u043b: \u0436<br />\n\u0413\u043e\u0434 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f: 1888<br />\n\u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c: \u0440\u0443\u0441\u0441\u043a\u0430\u044f<br />\n\u041c\u0435\u0441\u0442\u043e \u0436\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e \u0434\u043e \u044d\u0432\u0430\u043a\u0443\u0430\u0446\u0438\u0438: \u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0433. \u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434<br />\n\u041a\u0435\u043c \u0438 \u0433\u0434\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u043b \u0434\u043e \u044d\u0432\u0430\u043a\u0443\u0430\u0446\u0438\u0438: -<br />\n\u0413\u0434\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u043b \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u044d\u0432\u0430\u043a\u0443\u0430\u0446\u0438\u0438: -<br />\n\u0413\u0434\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d: \u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0427\u0435\u0440\u0435\u043f\u0430\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0433. \u0427\u0435\u0440\u0435\u043f\u0430\u043d\u043e\u0432\u043e, \u0443\u043b. \u041a\u043e\u043b\u0445\u043e\u0437\u043d\u0430\u044f, 26<br />\n\u0421\u0441\u044b\u043b\u043a\u0430 \u043d\u0430 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442, \u0434\u0430\u0442\u0430 \u0441\u043e\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0441\u043f\u0438\u0441\u043a\u043e\u0432: \u0413\u0410\u041d\u041e. \u0420-1030, \u043e\u043f.1, \u0434.254, \u043b.83\u043e\u0431 (30.05.1942 \u0433.)\n</p>\n</div>\n</div>",
@@ -429,7 +431,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-27
+29
 ],
 "place": 38,
 "text": "",
@@ -450,7 +452,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-30
+32
 ],
 "place": -1,
 "text": "",
@@ -467,7 +469,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-31
+33
 ],
 "place": 38,
 "text": "",
@@ -484,7 +486,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-31
+33
 ],
 "place": 58,
 "text": "<div>\n<i class=\"NoteType\">\n\u0417\u0430\u043c\u0435\u0442\u043a\u0430 \u043e \u0441\u043e\u0431\u044b\u0442\u0438\u0438\n</i>\n<div class=\"grampsstylednote\">\n<p>\n\u0411\u0440\u0438\u043a \u0421\u0443\u0441\u0430\u043d\u043d\u0430 \u0418\u043b\u044c\u0438\u043d\u0438\u0447\u043d\u0430<br />\n\u041e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0435 \u043a \u0433\u043b\u0430\u0432\u0435 \u0441\u0435\u043c\u044c\u0438: \u0434\u043e\u0447\u044c<br />\n\u041f\u043e\u043b: \u0436<br />\n\u0413\u043e\u0434 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f: 1940<br />\n\u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c: \u0435\u0432\u0440\u0435\u0439\u043a\u0430<br />\n\u041c\u0435\u0441\u0442\u043e \u0436\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e \u0434\u043e \u044d\u0432\u0430\u043a\u0443\u0430\u0446\u0438\u0438: \u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0433. \u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434<br />\n\u041a\u0435\u043c \u0438 \u0433\u0434\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u043b \u0434\u043e \u044d\u0432\u0430\u043a\u0443\u0430\u0446\u0438\u0438: -<br />\n\u0413\u0434\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u043b \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u044d\u0432\u0430\u043a\u0443\u0430\u0446\u0438\u0438: -<br />\n\u0413\u0434\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d: \u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0427\u0435\u0440\u0435\u043f\u0430\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0433. \u0427\u0435\u0440\u0435\u043f\u0430\u043d\u043e\u0432\u043e, \u0443\u043b. \u041a\u043e\u043b\u0445\u043e\u0437\u043d\u0430\u044f, 26<br />\n\u0421\u0441\u044b\u043b\u043a\u0430 \u043d\u0430 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442, \u0434\u0430\u0442\u0430 \u0441\u043e\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0441\u043f\u0438\u0441\u043a\u043e\u0432: \u0413\u0410\u041d\u041e. \u0420-1030, \u043e\u043f.1, \u0434.254, \u043b.83\u043e\u0431 (30.05.1942 \u0433.)\n</p>\n</div>\n</div>",
@@ -499,7 +501,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-31
+33
 ],
 "place": 60,
 "text": "",
@@ -514,7 +516,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-31
+33
 ],
 "place": 2,
 "text": "",
@@ -529,7 +531,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-31
+33
 ],
 "place": 8,
 "text": "<div>\n<p>\n<b>\u041f\u0440\u0438\u0447\u0438\u043d\u0430</b>: \u043f\u043e\u0441\u043b\u0435\u0434\u0441\u0442\u0432\u0438\u044f \u0438\u043d\u0441\u0443\u043b\u044c\u0442\u0430\n</p>\n</div>",
@@ -546,7 +548,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-32
+34
 ],
 "place": -1,
 "text": "",
@@ -563,7 +565,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-32
+34
 ],
 "place": 58,
 "text": "<div>\n<i class=\"NoteType\">\n\u0417\u0430\u043c\u0435\u0442\u043a\u0430 \u043e \u0441\u043e\u0431\u044b\u0442\u0438\u0438\n</i>\n<div class=\"grampsstylednote\">\n<p>\n\u0410\u0440\u0445\u0438\u043f\u043e\u0432\u0430 \u0422\u0430\u043c\u0430\u0440\u0430 \u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432\u043d\u0430<br />\n\u041e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0435 \u043a \u0433\u043b\u0430\u0432\u0435 \u0441\u0435\u043c\u044c\u0438: \u0441\u0435\u0441\u0442\u0440\u0430<br />\n\u041f\u043e\u043b: \u0436<br />\n\u0413\u043e\u0434 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f: 1910<br />\n\u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c: \u0440\u0443\u0441\u0441\u043a\u0430\u044f<br />\n\u041c\u0435\u0441\u0442\u043e \u0436\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e \u0434\u043e \u044d\u0432\u0430\u043a\u0443\u0430\u0446\u0438\u0438: \u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0433. \u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434<br />\n\u041a\u0435\u043c \u0438 \u0433\u0434\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u043b \u0434\u043e \u044d\u0432\u0430\u043a\u0443\u0430\u0446\u0438\u0438: \u0437\u0430\u0432\u043e\u0434 \u0413\u041e\u041c\u0417, \u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u043e\u0440<br />\n\u0413\u0434\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u043b \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u044d\u0432\u0430\u043a\u0443\u0430\u0446\u0438\u0438: \u043d\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u043b\u0430<br />\n\u0413\u0434\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d: \u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0427\u0435\u0440\u0435\u043f\u0430\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0433. \u0427\u0435\u0440\u0435\u043f\u0430\u043d\u043e\u0432\u043e, \u0443\u043b. \u041a\u043e\u043b\u0445\u043e\u0437\u043d\u0430\u044f, 26<br />\n\u0421\u0441\u044b\u043b\u043a\u0430 \u043d\u0430 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442, \u0434\u0430\u0442\u0430 \u0441\u043e\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0441\u043f\u0438\u0441\u043a\u043e\u0432: \u0413\u0410\u041d\u041e. \u0420-1030, \u043e\u043f.1, \u0434.254, \u043b.83\u043e\u0431 (30.05.1942 \u0433.)<br />\nhttps://archportal.nso.ru/tematicheskie-bazy-dannykh/43875/\n</p>\n</div>\n</div>",
@@ -578,7 +580,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-32
+34
 ],
 "place": -1,
 "text": "",
@@ -598,7 +600,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-34
+36
 ],
 "place": -1,
 "text": "",
@@ -620,7 +622,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-40
+42
 ],
 "place": 59,
 "text": "",
@@ -637,7 +639,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-40
+42
 ],
 "place": -1,
 "text": "",
@@ -652,7 +654,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-40
+42
 ],
 "place": 30,
 "text": "",
@@ -667,7 +669,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-40
+42
 ],
 "place": 1,
 "text": "",
@@ -685,7 +687,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-42
+44
 ],
 "place": -1,
 "text": "",
@@ -702,7 +704,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-43
+45
 ],
 "place": -1,
 "text": "",
@@ -717,7 +719,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-43
+45
 ],
 "place": 25,
 "text": "<div>\n<i class=\"NoteType\">\n\u0417\u0430\u043c\u0435\u0442\u043a\u0430 \u043e \u0441\u043e\u0431\u044b\u0442\u0438\u0438\n</i>\n<div class=\"grampsstylednote\">\n<p>\n1871 \u0433\u043e\u0434 - \u0433\u043e\u0434 \u0443\u043a\u0430\u0437\u0430\u043d \u0432 \u043b\u0438\u0447\u043d\u043e\u043c \u0434\u0435\u043b\u0435 \u0440\u0430\u0431\u043e\u0442\u043d\u0438\u043a\u0430 \u0413\u0410\u0417\n</p>\n</div>\n</div>",
@@ -734,7 +736,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-44
+46
 ],
 "place": -1,
 "text": "",
@@ -749,7 +751,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-44
+46
 ],
 "place": -1,
 "text": "",
@@ -764,7 +766,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-44
+46
 ],
 "place": 10,
 "text": "<div>\n<i class=\"NoteType\">\n\u0417\u0430\u043c\u0435\u0442\u043a\u0430 \u043e \u0441\u043e\u0431\u044b\u0442\u0438\u0438\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://aguterbeter.com/zahoronenie-shyrman-e-t/<br />\n\u0415\u0432\u0440\u0435\u0439\u0441\u043a\u043e\u0435 \u043a\u043b\u0430\u0434\u0431\u0438\u0449\u0435 \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0430<br />\n\u0420\u043e\u0441\u0441\u0438\u044f, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433, \u043f\u0440. \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u0441\u043a\u043e\u0439 \u0424\u0435\u0440\u043c\u044b, \u0434. 12, \u043b\u0438\u0442. \u0411<br />\n\u0423\u0447\u0430\u0441\u0442\u043e\u043a 3-1 \u043d\u043e\u0432.<br />\n\u041c\u0435\u0441\u0442\u043e 180<br />\n59.858112, 30.451314\n</p>\n</div>\n</div>",
@@ -785,7 +787,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 70,
+"m_idx": 74,
 "note": "",
 "rect": [
 0,
@@ -798,7 +800,7 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-47
+49
 ],
 "place": 39,
 "text": "",
@@ -815,7 +817,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-47
+49
 ],
 "place": 53,
 "text": "",
@@ -830,7 +832,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-47
+49
 ],
 "place": -1,
 "text": "<div>\n<i class=\"NoteType\">\n\u0417\u0430\u043c\u0435\u0442\u043a\u0430 \u043e \u0441\u043e\u0431\u044b\u0442\u0438\u0438\n</i>\n<div class=\"grampsstylednote\">\n<p>\n\u0414\u043e\u043b\u0436\u043d\u043e\u0441\u0442\u044c/\u0417\u0432\u0430\u043d\u0438\u0435 \u0440\u044f\u0434\u043e\u0432\u043e\u0439 <br />\n\u0412\u043e\u0438\u043d\u0441\u043a\u0430\u044f \u0447\u0430\u0441\u0442\u044c 122-\u0439 \u043f\u0435\u0445\u043e\u0442\u043d\u044b\u0439 \u0422\u0430\u043c\u0431\u043e\u0432\u0441\u043a\u0438\u0439 \u043f\u043e\u043b\u043a <br />\n\u041c\u0435\u0441\u0442\u043e \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f. \u0413\u0443\u0431\u0435\u0440\u043d\u0438\u044f \u041a\u043e\u0441\u0442\u0440\u043e\u043c\u0441\u043a\u0430\u044f \u0433\u0443\u0431. <br />\n\u041c\u0435\u0441\u0442\u043e \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f. \u0423\u0435\u0437\u0434 \u041a\u043e\u0441\u0442\u0440\u043e\u043c\u0441\u043a\u043e\u0439 \u0443\u0435\u0437\u0434 <br />\n\u041c\u0435\u0441\u0442\u043e \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f. \u0412\u043e\u043b\u043e\u0441\u0442\u044c \u041a\u043e\u0440\u044f\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u0432\u043e\u043b. <br />\n\u041f\u0440\u0438\u0447\u0438\u043d\u0430 \u0432\u044b\u0431\u044b\u0442\u0438\u044f \u0440\u0430\u043d\u0435\u043d/\u043a\u043e\u043d\u0442\u0443\u0436\u0435\u043d <br />\n\u0414\u0430\u0442\u0430 \u0441\u043e\u0431\u044b\u0442\u0438\u044f 14.07.1916 <br />\n\u0422\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u0418\u043c\u0435\u043d\u043d\u044b\u0435 \u0441\u043f\u0438\u0441\u043a\u0438 \u043f\u043e\u0442\u0435\u0440\u044c<br />\n\u0410\u0440\u0445\u0438\u0432 \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0413\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0412\u043e\u0435\u043d\u043d\u043e-\u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0430\u0440\u0445\u0438\u0432 <br />\n\u0424\u043e\u043d\u0434 \u211616196, \u041e\u0441\u043e\u0431\u043e\u0435 \u0434\u0435\u043b\u043e\u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e \u043f\u043e \u0441\u0431\u043e\u0440\u0443 \u0438 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 \u0441\u0432\u0435\u0434\u0435\u043d\u0438\u0439 \u043e \u0432\u044b\u0431\u044b\u0432\u0448\u0438\u0445 \u0437\u0430 \u0441\u043c\u0435\u0440\u0442\u044c\u044e \u0438\u043b\u0438 \u0437\u0430 \u0440\u0430\u043d\u0430\u043c\u0438, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043f\u0440\u043e\u043f\u0430\u0432\u0448\u0438\u0445 \u0431\u0435\u0437 \u0432\u0435\u0441\u0442\u0438 \u0432\u043e\u0438\u043d\u0441\u043a\u0438\u0445 \u0447\u0438\u043d\u0430\u0445, \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0445 \u043f\u0440\u043e\u0442\u0438\u0432 \u043d\u0435\u043f\u0440\u0438\u044f\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0445 \u0430\u0440\u043c\u0438\u0439 (1914 - 1918) <br />\n\u041e\u043f\u0438\u0441\u044c \u21161, \u0418\u043c\u0435\u043d\u043d\u044b\u0435 \u0441\u043f\u0438\u0441\u043a\u0438 \u043f\u043e\u0442\u0435\u0440\u044c \u0441\u043e\u043b\u0434\u0430\u0442 \u0438 \u043e\u0444\u0438\u0446\u0435\u0440\u043e\u0432 1 \u043c\u0438\u0440\u043e\u0432\u043e\u0439 \u0432\u043e\u0439\u043d\u044b 1914-1918 \u0433\u0433. (\u043f\u043e \u043f\u043e\u043b\u043a\u0430\u043c \u0438 \u0431\u0440\u0438\u0433\u0430\u0434\u0430\u043c) \u0414\u0435\u043b\u043e \u2116254, \u0418\u043c\u0435\u043d\u043d\u044b\u0435 \u0441\u043f\u0438\u0441\u043a\u0438 \u043f\u043e\u0442\u0435\u0440\u044c \u0441\u043e\u043b\u0434\u0430\u0442 122 \u043f\u0435\u0445\u043e\u0442\u043d\u043e\u0433\u043e \u0422\u0430\u043c\u0431\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u043f\u043e\u043b\u043a\u0430 <br />\n\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442 \u2116147, \u0421\u043f\u0438\u0441\u043e\u043a \u0432\u043e\u0438\u043d\u0441\u043a\u0438\u0445 \u0447\u0438\u043d\u043e\u0432 122 \u043f\u0435\u0445\u043e\u0442\u043d\u043e\u0433\u043e \u0422\u0430\u043c\u0431\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u043f\u043e\u043b\u043a\u0430, \u0443\u0431\u0438\u0442\u044b\u0445, \u043f\u0440\u043e\u043f\u0430\u0432\u0448\u0438\u0445 \u0431\u0435\u0437 \u0432\u0435\u0441\u0442\u0438 \u0438 \u0432\u0437\u044f\u0442\u044b\u0445 \u0432 \u043f\u043b\u0435\u043d \u043d\u0435\u043f\u0440\u0438\u044f\u0442\u0435\u043b\u0435\u043c, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0440\u0430\u043d\u0435\u043d\u044b\u0445 \u0438 \u043a\u043e\u043d\u0442\u0443\u0436\u0435\u043d\u043d\u044b\u0445, \u0441 1 \u0438\u044e\u043b\u044f \u043f\u043e 15 \u0438\u044e\u043b\u044f 1916 \u0433., <br />\n\u0410\u0432\u0442\u043e\u0440: 122-\u0439 \u043f\u0435\u0445\u043e\u0442\u043d\u044b\u0439 \u0422\u0430\u043c\u0431\u043e\u0432\u0441\u043a\u0438\u0439 \u043f\u043e\u043b\u043a, 1916-07-24<br />\nhttps://tinyurl.com/yplzth7k\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
@@ -847,7 +849,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-47
+49
 ],
 "place": 39,
 "text": "",
@@ -864,7 +866,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-47
+49
 ],
 "place": -1,
 "text": "",
@@ -882,7 +884,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-49
+51
 ],
 "place": 39,
 "text": "",
@@ -897,7 +899,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-49
+51
 ],
 "place": -1,
 "text": "<div>\n<p>\n<b>\u0412\u043e\u0441\u043f\u0440\u0438\u0435\u043c\u043d\u0438\u043a/\u0432\u043e\u0441\u043f\u0440\u0438\u0435\u043c\u043d\u0438\u0446\u0430</b>: \u0427\u0435\u0440\u043d\u043e\u0432\u0430 \u0422\u0430\u043c\u0430\u0440\u0430 \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043d\u0430\n</p>\n</div>",
@@ -917,7 +919,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-53
+55
 ],
 "place": -1,
 "text": "",
@@ -934,7 +936,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-54
+56
 ],
 "place": -1,
 "text": "<div>\n<i class=\"NoteType\">\n\u041e\u0431\u0449\u0435\u0435\n</i>\n<div class=\"grampsstylednote\">\n<p>\n\u041e\u0431\u044a\u0435\u043a\u0442\u044b, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0441\u0441\u044b\u043b\u0430\u0435\u0442\u0441\u044f \u044d\u0442\u0430 \u0437\u0430\u043c\u0435\u0442\u043a\u0430, \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0443\u044e\u0442, \u043f\u043e\u044d\u0442\u043e\u043c\u0443 \u043e\u043d\u0438 \u0431\u044b\u043b\u0438 \u0441\u043e\u0437\u0434\u0430\u043d\u044b \u043f\u0440\u0438 \u0437\u0430\u043f\u0443\u0441\u043a\u0435 \u041f\u0440\u043e\u0432\u0435\u0440\u043a\u0438 \u0438 \u0438\u0441\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0432 17.03.2024 22:52:56.\n</p>\n</div>\n</div>",
@@ -949,7 +951,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-54
+56
 ],
 "place": -1,
 "text": "",
@@ -974,7 +976,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-61
+63
 ],
 "place": 34,
 "text": "",
@@ -989,7 +991,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-61
+63
 ],
 "place": 21,
 "text": "",
@@ -1006,7 +1008,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-61
+63
 ],
 "place": 21,
 "text": "<div>\n<p>\n<b>\u0412\u043e\u0441\u043f\u0440\u0438\u0435\u043c\u043d\u0438\u043a/\u0432\u043e\u0441\u043f\u0440\u0438\u0435\u043c\u043d\u0438\u0446\u0430</b>: \u041c\u043e\u0440\u043e\u0437\u043e\u0432\u0430 \u041c\u0430\u0440\u0438\u044f\n</p>\n<div>\n<i class=\"NoteType\">\n\u0417\u0430\u043c\u0435\u0442\u043a\u0430 \u043e\u0431 \u0430\u0442\u0440\u0438\u0431\u0443\u0442\u0435\n</i>\n<div class=\"grampsstylednote\">\n<p>\n\u043c\u0430\u0442\u044c \u041c\u043e\u0440\u043e\u0437\u043e\u0432\u0430 \u0410\u043a\u0438\u043b\u0438\u043d\u0430 \u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432\u043d\u0430, \u0421.\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0441\u043a\u043e\u0439 \u0433\u0443\u0431\u0435\u0440\u043d\u0438\u0438, \u042f\u043c\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u0433\u043e \u0443\u0435\u0437\u0434\u0430, \u042f\u0431\u043b\u043e\u043d\u0438\u0446\u043a\u043e\u0439 \u0432\u043e\u043b\u043e\u0441\u0442\u0438, \u0434\u0435\u0440\u0435\u0432\u043d\u0438 \u041e\u0441\u0442\u0440\u043e\u0433\u043e\u0432\u0438\u0446\n</p>\n</div>\n<i class=\"NoteType\">\n\u0417\u0430\u043c\u0435\u0442\u043a\u0430 \u043e\u0431 \u0430\u0442\u0440\u0438\u0431\u0443\u0442\u0435\n</i>\n<div class=\"grampsstylednote\">\n<p>\n\u041a\u0440\u0435\u0441\u0442\u043d\u0430\u044f \u043c\u0430\u0442\u044c - \u041c\u0438\u043d\u0441\u043a\u043e\u0439 \u0433\u0443\u0431\u0435\u0440\u043d\u0438\u0438, \u041c\u0438\u043d\u0441\u043a\u043e\u0433\u043e \u0443\u0435\u0437\u0434\u0430, \u0421\u0430\u043c\u043e\u0445\u0432\u0430\u043b\u043e\u0432\u0441\u043a\u043e\u0439 \u0432\u043e\u043b\u043e\u0441\u0442\u0438, \u0434\u0435\u0440\u0435\u0432\u043d\u0438 \u041e\u0441\u0442\u0440\u043e\u0432\u0430 \u043a\u0440\u0435\u0441\u0442\u044c\u044f\u043d\u0441\u043a\u0430\u044f \u0434\u0435\u0432\u0438\u0446\u0430 \u0410\u043d\u043d\u0430 \u0422\u0430\u0440\u0430\u0441\u0438\u0435\u0432\u0430 \u041f\u043e\u0441\u0442\u043d\u0438\u043a\u043e\u0432\u0430\n</p>\n</div>\n</div>\n</div>",
@@ -1026,7 +1028,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-63
+65
 ],
 "place": -1,
 "text": "",
@@ -1045,7 +1047,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 25,
+"m_idx": 28,
 "note": "",
 "rect": [
 0,
@@ -1057,7 +1059,7 @@ I_events_0 = [
 },
 {
 "cita": [],
-"m_idx": 26,
+"m_idx": 29,
 "note": "",
 "rect": [
 0,
@@ -1070,7 +1072,7 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-64
+66
 ],
 "place": 34,
 "text": "",
@@ -1087,7 +1089,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-64
+66
 ],
 "place": -1,
 "text": "<div>\n<p>\n<b>\u0412\u043e\u0441\u043f\u0440\u0438\u0435\u043c\u043d\u0438\u043a/\u0432\u043e\u0441\u043f\u0440\u0438\u0435\u043c\u043d\u0438\u0446\u0430</b>: \u043a\u0440\u0435\u0441\u0442\u044c\u044f\u043d\u0438\u043d \u043b\u0435\u0440\u0435\u0432\u043d\u0438 \u041f\u043b\u0435\u0449\u0443\u043d\u0438\u043d\u043e \u0418\u0432\u0430\u043d \u042f\u043a\u043e\u0432\u043b\u0435\u0432\n</p>\n<p>\n<b>\u0412\u043e\u0441\u043f\u0440\u0438\u0435\u043c\u043d\u0438\u043a/\u0432\u043e\u0441\u043f\u0440\u0438\u0435\u043c\u043d\u0438\u0446\u0430</b>: \u0441\u043e\u043b\u0434\u0430\u0442\u0441\u043a\u0430\u044f \u0434\u0435\u0432\u0438\u0446\u0430 \u041f\u0430\u0440\u0430\u0441\u043a\u0435\u0432\u0430 \u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u0430 \u0417\u0432\u0435\u0440\u0435\u0432\u0430\n</p>\n</div>",
@@ -1104,7 +1106,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-64
+66
 ],
 "place": 48,
 "text": "",
@@ -1119,7 +1121,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-64
+66
 ],
 "place": 0,
 "text": "",
@@ -1140,7 +1142,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-69
+71
 ],
 "place": -1,
 "text": "",
@@ -1155,7 +1157,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-69
+71
 ],
 "place": 17,
 "text": "",
@@ -1170,7 +1172,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-69
+71
 ],
 "place": 9,
 "text": "",
@@ -1185,7 +1187,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-69
+71
 ],
 "place": 26,
 "text": "",
@@ -1200,7 +1202,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-69
+71
 ],
 "place": 26,
 "text": "",
@@ -1219,7 +1221,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-72
+74
 ],
 "place": -1,
 "text": "",
@@ -1234,7 +1236,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-72
+74
 ],
 "place": -1,
 "text": "",
@@ -1255,7 +1257,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-75
+77
 ],
 "place": 21,
 "text": "",
@@ -1272,7 +1274,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-75
+77
 ],
 "place": 42,
 "text": "<div>\n<p>\n<b>\u041a\u0440\u0435\u0441\u0442\u043d\u044b\u0439 \u043e\u0442\u0435\u0446</b>: \u041f\u0435\u0442\u0443\u0445\u043e\u0432 \u0418\u0432\u0430\u043d \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0438\u0447\n</p>\n<div>\n<i class=\"NoteType\">\n\u0417\u0430\u043c\u0435\u0442\u043a\u0430 \u043e\u0431 \u0430\u0442\u0440\u0438\u0431\u0443\u0442\u0435\n</i>\n<div class=\"grampsstylednote\">\n<p>\n5-\u0433\u043e \u0444\u043b\u043e\u0442\u0441\u043a\u043e\u0433\u043e \u044d\u043a\u0438\u043f\u0430\u0436\u0430 \u043f\u0438\u0441\u0430\u0440\u044c 1-\u0439 \u0441\u0442\u0430\u0442\u044c\u0438, \u0421.\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0441\u043a\u043e\u0439 \u0433\u0443\u0431\u0435\u0440\u043d\u0438\u0438\n</p>\n</div>\n</div>\n<p>\n<b>\u041a\u0440\u0435\u0441\u0442\u043d\u0430\u044f \u043c\u0430\u0442\u044c</b>: \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430 \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432\u043d\u0430 \u0418\u0432\u0430\u043d\u043e\u0432\u0430\n</p>\n<div>\n<i class=\"NoteType\">\n\u0417\u0430\u043c\u0435\u0442\u043a\u0430 \u043e\u0431 \u0430\u0442\u0440\u0438\u0431\u0443\u0442\u0435\n</i>\n<div class=\"grampsstylednote\">\n<p>\n\u0433\u043e\u0440\u043e\u0434\u0430 \u041b\u0443\u0433\u0438 \u043c\u0435\u0449\u0430\u043d\u0438\u043d\u0430 \u0414\u0438\u043c\u0438\u0442\u0440\u0438\u044f \u0418\u043e\u0430\u043d\u043d\u043e\u0432\u0430 \u0418\u0432\u0430\u043d\u043e\u0432\u0430 \u0434\u043e\u0447\u044c, \u0434\u0435\u0432\u0438\u0446\u0430 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430 \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432\u0430\n</p>\n</div>\n</div>\n</div>",
@@ -1293,7 +1295,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-78
+80
 ],
 "place": 6,
 "text": "",
@@ -1308,7 +1310,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-78
+80
 ],
 "place": 21,
 "text": "",
@@ -1326,7 +1328,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-80
+82
 ],
 "place": 26,
 "text": "",
@@ -1341,7 +1343,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-80
+82
 ],
 "place": 26,
 "text": "",
@@ -1356,7 +1358,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-80
+82
 ],
 "place": -1,
 "text": "",
@@ -1378,13 +1380,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-86
+88
 ],
 "place": 28,
 "text": "",
 "type": "\u0420\u043e\u0436\u0434\u0435\u043d\u0438\u0435"
 }
 ],
+[],
+[],
 [
 {
 "cita": [],
@@ -1395,7 +1399,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-87
+91
 ],
 "place": -1,
 "text": "<div>\n<i class=\"NoteType\">\n\u041e\u0431\u0449\u0435\u0435\n</i>\n<div class=\"grampsstylednote\">\n<p>\n\u041e\u0431\u044a\u0435\u043a\u0442\u044b, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0441\u0441\u044b\u043b\u0430\u0435\u0442\u0441\u044f \u044d\u0442\u0430 \u0437\u0430\u043c\u0435\u0442\u043a\u0430, \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0443\u044e\u0442, \u043f\u043e\u044d\u0442\u043e\u043c\u0443 \u043e\u043d\u0438 \u0431\u044b\u043b\u0438 \u0441\u043e\u0437\u0434\u0430\u043d\u044b \u043f\u0440\u0438 \u0437\u0430\u043f\u0443\u0441\u043a\u0435 \u041f\u0440\u043e\u0432\u0435\u0440\u043a\u0438 \u0438 \u0438\u0441\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0432 27.04.2024 12:17:54.\n</p>\n</div>\n</div>",
@@ -1412,7 +1416,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-88
+92
 ],
 "place": 26,
 "text": "",
@@ -1429,7 +1433,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-89
+93
 ],
 "place": -1,
 "text": "<div>\n<p>\n<b>\u041f\u0440\u0438\u0447\u0438\u043d\u0430</b>: \u0447\u0430\u0445\u043e\u0442\u043a\u0430\n</p>\n</div>",
@@ -1446,7 +1450,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-90
+94
 ],
 "place": 26,
 "text": "",
@@ -1461,7 +1465,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-90
+94
 ],
 "place": -1,
 "text": "<div>\n<p>\n<b>\u041f\u0440\u0438\u0447\u0438\u043d\u0430</b>: \u043d\u0435\u0438\u0437\u0432\u0435\u0441\u0442\u043d.\n</p>\n</div>",
@@ -1478,7 +1482,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-91
+95
 ],
 "place": 26,
 "text": "",
@@ -1495,7 +1499,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-91
+95
 ],
 "place": 26,
 "text": "<div>\n<p>\n<b>\u041f\u043e\u0440\u0443\u0447\u0438\u0442\u0435\u043b\u044c</b>: \u041a\u043e\u043b.\u0441\u0435\u043a\u0440. \u0418\u0432\u0430\u043d \u041c\u0438\u043d\u043a\u0435\u0432\u0438\u0447\n</p>\n<p>\n<b>\u041f\u043e\u0440\u0443\u0447\u0438\u0442\u0435\u043b\u044c</b>: \u0433\u0443\u0431.\u0441\u0435\u043a\u0440. \u041f\u0435\u0442\u0440 \u041c\u0438\u043d\u043a\u0435\u0432\u0438\u0447\n</p>\n</div>",
@@ -1512,7 +1516,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-92
+96
 ],
 "place": -1,
 "text": "",
@@ -1532,7 +1536,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-94
+98
 ],
 "place": 38,
 "text": "",
@@ -1549,7 +1553,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-94
+98
 ],
 "place": 43,
 "text": "",
@@ -1564,7 +1568,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-94
+98
 ],
 "place": -1,
 "text": "",
@@ -1579,7 +1583,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-94
+98
 ],
 "place": -1,
 "text": "",
@@ -1596,7 +1600,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-95
+99
 ],
 "place": 26,
 "text": "",
@@ -1613,7 +1617,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-96
+100
 ],
 "place": -1,
 "text": "",
@@ -1632,7 +1636,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-97
+101
 ],
 "place": 38,
 "text": "",
@@ -1649,7 +1653,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-97
+101
 ],
 "place": -1,
 "text": "",
@@ -1666,7 +1670,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-97
+101
 ],
 "place": -1,
 "text": "",
@@ -1683,7 +1687,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 77,
+"m_idx": 81,
 "note": "",
 "rect": [
 0,
@@ -1695,7 +1699,7 @@ I_events_0 = [
 },
 {
 "cita": [],
-"m_idx": 99,
+"m_idx": 103,
 "note": "",
 "rect": [
 0,
@@ -1707,7 +1711,7 @@ I_events_0 = [
 },
 {
 "cita": [],
-"m_idx": 100,
+"m_idx": 104,
 "note": "",
 "rect": [
 0,
@@ -1720,7 +1724,7 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-97
+101
 ],
 "place": -1,
 "text": "",
@@ -1735,7 +1739,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-97
+101
 ],
 "place": -1,
 "text": "",
@@ -1754,7 +1758,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-98
+102
 ],
 "place": -1,
 "text": "",
@@ -1771,7 +1775,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-98
+102
 ],
 "place": -1,
 "text": "",
@@ -1781,16 +1785,17 @@ I_events_0 = [
 [
 {
 "cita": [
-51
+51,
+58
 ],
-"date": "1839",
-"date_sdn": 2392741,
+"date": "1 \u0444\u0435\u0432 1824 (\u042e\u043b\u0438\u0430\u043d\u0441\u043a\u0438\u0439)",
+"date_sdn": 2387305,
 "descr": "",
 "gid": "E0215",
 "media": [],
 "part_family": [],
 "part_person": [
-99
+103
 ],
 "place": -1,
 "text": "",
@@ -1805,7 +1810,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-99
+103
 ],
 "place": -1,
 "text": "",
@@ -1820,7 +1825,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-99
+103
 ],
 "place": -1,
 "text": "",
@@ -1837,7 +1842,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-100
+104
 ],
 "place": 26,
 "text": "",
@@ -1854,7 +1859,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-101
+105
 ],
 "place": 26,
 "text": "",
@@ -1871,7 +1876,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-102
+106
 ],
 "place": -1,
 "text": "",
@@ -1889,7 +1894,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-104
+108
 ],
 "place": 44,
 "text": "",
@@ -1897,7 +1902,7 @@ I_events_0 = [
 },
 {
 "cita": [
-59
+60
 ],
 "date": "20 \u044f\u043d\u0432 1838 (\u042e\u043b\u0438\u0430\u043d\u0441\u043a\u0438\u0439)",
 "date_sdn": 2392407,
@@ -1906,7 +1911,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-104
+108
 ],
 "place": 26,
 "text": "<div>\n<p>\n<b>\u041a\u0440\u0435\u0441\u0442\u043d\u044b\u0439 \u043e\u0442\u0435\u0446</b>: \u041c\u0438\u043d\u0441\u043a\u043e\u0439 \u041a\u0430\u0437\u0435\u043d\u043d\u043e\u0439 \u041f\u0430\u043b\u0430\u0442\u044b \u0438 \u0413\u0443\u0431\u0435\u0440\u043d\u0441\u043a\u0438\u0439 \u041a\u0430\u0437\u043d\u0430\u0447\u0435\u0439 \u0422\u0438\u0442\u0443\u043b\u044f\u0440\u043d\u044b\u0439 \u0421\u043e\u0432\u0435\u0442\u043d\u0438\u043a \u041d\u0438\u043a\u043e\u043b\u0430\u0439 \u0418\u0432\u0430\u043d\u043e\u0432\u0438\u0447 \u0413\u043e\u043b\u044c\u043d\u0435\u0432\u0438\u0447?\n</p>\n<p>\n<b>\u041a\u0440\u0435\u0441\u0442\u043d\u0430\u044f \u043c\u0430\u0442\u044c</b>: \u0421\u043b\u0443\u0446\u043a\u043e\u0433\u043e \u0443\u0435\u0437\u0434\u0430 \u0411\u0435\u043b\u0435\u0432\u0438\u0446\u043a\u043e\u0439 \u041f\u0435\u0442\u0440\u043e\u043f\u0430\u0432\u043b\u043e\u0432\u0441\u043a\u043e\u0439 \u0446\u0435\u0440\u043a\u0432\u0438 \u041f\u0440\u043e\u0442. \u0418\u0430\u043a\u043e\u0432\u0430 \u0415\u0440\u0435\u043c\u0438\u0447\u0430 \u0436\u0435\u043d\u0430 \u0421\u043e\u0444\u0438\u044f \u0421\u0442\u0435\u0444\u0430\u043d\u043e\u0432\u0430\n</p>\n</div>",
@@ -1914,7 +1919,7 @@ I_events_0 = [
 },
 {
 "cita": [
-62
+63
 ],
 "date": "9 \u043d\u043e\u044f 1841 (\u042e\u043b\u0438\u0430\u043d\u0441\u043a\u0438\u0439)",
 "date_sdn": 2393796,
@@ -1923,7 +1928,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-104
+108
 ],
 "place": -1,
 "text": "<div>\n<i class=\"NoteType\">\n\u0417\u0430\u043c\u0435\u0442\u043a\u0430 \u043e \u0441\u043e\u0431\u044b\u0442\u0438\u0438\n</i>\n<div class=\"grampsstylednote\">\n<p>\n\"\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c, \u041c\u0438\u043d\u0441\u043a \u041c\u0435\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u041a\u043d\u0438\u0433\u0438, 1700-1965\", , FamilySearch (https://www.familysearch.org/ark:/61903/1:1:6VSP-58B7 : Sun Mar 10 02:47:11 UTC 2024), Entry for \u041d\u0430\u0434\u0435\u0436\u0434\u0430 \u041c\u0438\u043d\u044c\u043a\u0435\u0432\u0438\u0447 and \u041e\u043d\u0443\u0444\u0440\u0438\u0439 \u041c\u0438\u043d\u044c\u043a\u0435\u0432\u0438\u0447, 9 Nov 1841.\n</p>\n</div>\n<p>\n<b>\u041f\u0440\u0438\u0447\u0438\u043d\u0430</b>: \u043e\u0442 \u0441\u043a\u0430\u0440\u043b\u0430\u0442\u0438\u043d\u044b\n</p>\n</div>",
@@ -1940,7 +1945,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-105
+109
 ],
 "place": -1,
 "text": "",
@@ -1955,7 +1960,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-105
+109
 ],
 "place": 20,
 "text": "<div>\n<i class=\"NoteType\">\n\u0417\u0430\u043c\u0435\u0442\u043a\u0430 \u043e \u0441\u043e\u0431\u044b\u0442\u0438\u0438\n</i>\n<div class=\"grampsstylednote\">\n<p>\n\u043f\u043e \u0434\u0430\u043d\u043d\u044b\u043c \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f \u041e\u0445\u0430 \u0447\u0430\u0442\u0430 t.me/familio_orthodox:<br />\n\u041e\u0445\u0430, [24.08.2024 21:01]<br />\n\u0421\u0432\u044f\u0449\u0435\u043d\u043d\u0438\u043a\u0438  \u041c\u0438\u043d\u043a\u0435\u0432\u0438\u0447\u0438 \u0432 \u0421\u0442\u0430\u0440\u044b\u0445 \u0414\u043e\u0440\u043e\u0433\u0430\u0445 \u0441\u043b\u0443\u0436\u0438\u043b\u0438 7 \u043f\u043e\u043a\u043e\u043b\u0435\u043d\u0438\u0439. \u0412\u0441\u0451 \u0418\u043e\u0430\u043d\u043d\u044b. \u041f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u043f\u0435\u0440\u0435\u0434\u0430\u043b \u0441\u0432\u043e\u0439 \u043f\u0440\u0438\u0445\u043e\u0434  \u043c\u0443\u0436\u0443 \u0441\u0432\u043e\u0435\u0439 \u0434\u043e\u0447\u0435\u0440\u0438- \u0421\u0442\u0435\u0444\u0430\u043d\u0443 \u041a\u043e\u043d\u043e\u043f\u0430\u0441\u0435\u0432\u0438\u0447\u0443. \u0410 \u0435\u0433\u043e \u0443\u0436\u0435 \u043f\u0435\u0440\u0435\u0432\u0435\u043b\u0438 \u0432 \u041a\u0440\u0438\u043d\u043a\u0438. \u0422\u043e \u0435\u0441\u0442\u044c \u0432  \u041a\u0440\u0438\u043d\u043a\u0430\u0445 \u0436\u0438\u043b \u0441\u0432\u044f\u0449\u0435\u043d\u043d\u0438\u043a \u041a\u043e \u043d\u043e\u043f\u0430\u0441\u0435\u0432\u0438\u0447 \u0441 \u0436\u0435\u043d\u043e\u0439 \u041c\u0430\u0442\u0440\u043e\u043d\u043e\u0439 \u0418\u043e\u0430\u043d\u043d\u043e\u0432\u043d\u043e\u0439( \u041c\u0438\u043d\u043a\u0435\u0432\u0438\u0447) .\n</p>\n<p>\n\u041e\u0445\u0430, [24.08.2024 21:05]<br />\n\u041d\u043e \u043c\u043e\u0439 \u043f\u0440\u0430\u043f\u0440\u0430 - \u041c\u0438\u043d\u043a\u0435\u0432\u0438\u0447 \u041e\u043d\u0443\u0444\u0440\u0438\u0439 \u0421\u0435\u043c\u0451\u043d\u043e\u0432\u0438\u0447 \u0441\u043b\u0443\u0436\u0438\u043b \u0432 \u041c\u0438\u043d\u0441\u043a\u043e\u043c \u041a\u0430\u0444\u0435\u0434\u0440\u0430\u043b\u044c\u043d\u043e\u043c \u0421\u043e\u0431\u043e\u0440\u0435. <br />\n\u041d\u043e \u0440\u043e\u0434\u0438\u043b\u0441\u044f \u0432, \u041a\u0440\u0438\u043d\u043a\u0430\u0445 \u0432, 1796 \u0433\u043e\u0434\u0443. \u0412\u043e\u0442 \u0438 \u043f\u044b\u0442\u0430\u044e\u0441\u044c \u043f\u043e\u043d\u044f\u0442\u044c, \u043a\u0430\u043a\u0430\u044f \u044d\u0442\u043e \u0431\u043e\u043a\u043e\u0432\u0430\u044f \u0432\u0435\u0442\u0432\u044c \u041c\u0438\u043d\u043a\u0435\u0432\u0438\u0447\u0435\u0439.\n</p>\n<p>\n\u041e\u0445\u0430, [24.08.2024 21:07]<br />\n\u042d\u0442\u0438 \u0441\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u0447 \u043f\u043e\u043b\u0443\u0447\u0438\u043b\u0430 \u0438\u0437  \u041c\u0438\u043d\u0441\u043a\u0438\u0445 \u0435\u043f\u0430\u0440\u0445\u0438\u0430\u043b\u044c\u043d\u044b\u0445 \u0412\u0435\u0434\u043e\u043c\u043e\u0441\u0442\u0435\u0439 \u0438 \u0438\u0437 \u043f\u043e\u0441\u043b\u0443\u0436\u043d\u043e\u0433\u043e \u0441\u043f\u0438\u0441\u043a\u0430 \u041e\u043d\u0443\u0444\u0440\u0438\u044f, \u041c\u0438\u043d\u043a\u0435\u0432\u0438\u0447\u0430  \u043d\u0430\u0439\u0434\u0435\u043d\u043d\u043e\u0433\u043e \u043c\u043d\u043e\u044e \u0432 \u0420\u0413\u0418\u0410.\n</p>\n<p>\n\u041e\u0445\u0430, [24.08.2024 18:38]<br />\n\u041f\u043e \u041c\u0438\u043d\u043a\u0435\u0432\u0438\u0447\u0430\u043c\n</p>\n<p>\n\u041e\u0445\u0430, [24.08.2024 18:39]<br />\n\u0421\u0442\u0430\u0440\u044b\u0435 \u0414\u043e\u0440\u043e\u0433\u0438 \u043f\u0440\u0438\u0445\u043e\u0434 \u0434\u0435\u0440\u0436\u0430\u043b\u043e \u0441\u0435\u043c\u0435\u0439\u0441\u0442\u0432\u043e 200 \u043b\u0435\u0442. \u041f\u043e\u0442\u043e\u043c \u041a\u0440\u0438\u043d\u043a\u0438. \u041c\u0438\u043d\u0441\u043a\u0430\u044f \u0433\u0443\u0431\u0435\u0440\u043d\u0438\u044f\n</p>\n</div>\n</div>",
@@ -1972,7 +1977,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-105
+109
 ],
 "place": -1,
 "text": "",
@@ -1982,7 +1987,7 @@ I_events_0 = [
 "cita": [
 25,
 32,
-58
+59
 ],
 "date": "9 \u0430\u043f\u0440 1862 (\u042e\u043b\u0438\u0430\u043d\u0441\u043a\u0438\u0439)",
 "date_sdn": 2401252,
@@ -1991,7 +1996,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-105
+109
 ],
 "place": 26,
 "text": "<div>\n<p>\n<b>\u041f\u0440\u0438\u0447\u0438\u043d\u0430</b>: \u043e\u0442 \u043e\u0431\u0449\u0435\u0433\u043e \u0440\u0430\u0441\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u043c\u0430, \u0430 \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e \u043c\u043e\u0437\u0433\u0430\n</p>\n</div>",
@@ -1999,7 +2004,7 @@ I_events_0 = [
 },
 {
 "cita": [
-58
+59
 ],
 "date": "12 \u0430\u043f\u0440 1862 (\u042e\u043b\u0438\u0430\u043d\u0441\u043a\u0438\u0439)",
 "date_sdn": 2401255,
@@ -2008,7 +2013,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-105
+109
 ],
 "place": 44,
 "text": "",
@@ -2025,7 +2030,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-105
+109
 ],
 "place": -1,
 "text": "",
@@ -2042,7 +2047,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-106
+110
 ],
 "place": 26,
 "text": "",
@@ -2060,7 +2065,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-108
+112
 ],
 "place": 26,
 "text": "",
@@ -2077,7 +2082,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-108
+112
 ],
 "place": -1,
 "text": "<div>\n<p>\n<b>\u041f\u0440\u0438\u0447\u0438\u043d\u0430</b>: \u043e\u0442 \u0445\u043e\u043b\u0435\u0440\u044b\n</p>\n</div>",
@@ -2094,7 +2099,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-109
+113
 ],
 "place": 26,
 "text": "",
@@ -2102,7 +2107,7 @@ I_events_0 = [
 },
 {
 "cita": [
-63
+64
 ],
 "date": "11 \u043d\u043e\u044f 1841 (\u042e\u043b\u0438\u0430\u043d\u0441\u043a\u0438\u0439)",
 "date_sdn": 2393798,
@@ -2111,7 +2116,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-109
+113
 ],
 "place": -1,
 "text": "<div>\n<p>\n<b>\u041f\u0440\u0438\u0447\u0438\u043d\u0430</b>: \u043e\u0442 \u0441\u043a\u0430\u0440\u043b\u0430\u0442\u0438\u043d\u044b\n</p>\n</div>",
@@ -2130,22 +2135,24 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-110
+114
 ],
 "place": -1,
 "text": "<div>\n<p>\n<b>\u041f\u0440\u0438\u0447\u0438\u043d\u0430</b>: \u043e\u0442 \u0447\u0430\u0445\u043e\u0442\u043a\u0438\n</p>\n</div>",
 "type": "\u0421\u043c\u0435\u0440\u0442\u044c"
 },
 {
-"cita": [],
-"date": "1886",
-"date_sdn": 2409908,
+"cita": [
+68
+],
+"date": "17 \u0444\u0435\u0432 1886 (\u042e\u043b\u0438\u0430\u043d\u0441\u043a\u0438\u0439)",
+"date_sdn": 2409967,
 "descr": "",
 "gid": "E10009",
 "media": [],
 "part_family": [],
 "part_person": [
-110
+114
 ],
 "place": -1,
 "text": "",
@@ -2162,11 +2169,28 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-110
+114
 ],
 "place": 41,
 "text": "",
 "type": "\u0417\u0430\u0445\u043e\u0440\u043e\u043d\u0435\u043d\u0438\u0435"
+},
+{
+"cita": [
+68
+],
+"date": "23 \u0444\u0435\u0432 1886 (\u042e\u043b\u0438\u0430\u043d\u0441\u043a\u0438\u0439)",
+"date_sdn": 2409973,
+"descr": "",
+"gid": "E10031",
+"media": [],
+"part_family": [],
+"part_person": [
+114
+],
+"place": 43,
+"text": "",
+"type": "\u041a\u0440\u0435\u0449\u0435\u043d\u0438\u0435"
 }
 ],
 [
@@ -2181,7 +2205,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-111
+115
 ],
 "place": -1,
 "text": "",
@@ -2199,7 +2223,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-113
+117
 ],
 "place": 48,
 "text": "",
@@ -2217,7 +2241,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-115
+119
 ],
 "place": 38,
 "text": "",
@@ -2232,7 +2256,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-115
+119
 ],
 "place": -1,
 "text": "",
@@ -2247,7 +2271,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-115
+119
 ],
 "place": 35,
 "text": "",
@@ -2262,7 +2286,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-115
+119
 ],
 "place": -1,
 "text": "",
@@ -2279,7 +2303,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-116
+120
 ],
 "place": -1,
 "text": "<div>\n<i class=\"NoteType\">\n\u0417\u0430\u043c\u0435\u0442\u043a\u0430 \u043e \u0441\u043e\u0431\u044b\u0442\u0438\u0438\n</i>\n<div class=\"grampsstylednote\">\n<p>\n\u0426\u0413\u0418\u0410 \u0421\u041f\u0431. \u0424\u043e\u043d\u0434 311. \u041e\u043f\u0438\u0441\u044c 1. \u0414\u0435\u043b\u043e 249<br />\n\u0410\u0442\u0442\u0435\u0441\u0442\u0430\u0442\u044b \u0443\u0447\u0435\u043d\u0438\u0446, \u043e\u043a\u043e\u043d\u0447\u0438\u0432\u0448\u0438\u0445 \u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0438\u043d\u0441\u043a\u0443\u044e \u0436\u0435\u043d\u0441\u043a\u0443\u044e \u0433\u0438\u043c\u043d\u0430\u0437\u0438\u044e. \u041a\u043e\u043f\u0438\u0438.\n</p>\n</div>\n</div>",
@@ -2297,7 +2321,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-118
+122
 ],
 "place": 35,
 "text": "",
@@ -2312,7 +2336,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-118
+122
 ],
 "place": -1,
 "text": "",
@@ -2331,7 +2355,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-121
+125
 ],
 "place": 51,
 "text": "<div>\n<i class=\"NoteType\">\n\u0417\u0430\u043c\u0435\u0442\u043a\u0430 \u043e \u0441\u043e\u0431\u044b\u0442\u0438\u0438\n</i>\n<div class=\"grampsstylednote\">\n<p>\n\u0414\u0430\u0442\u0430 \u0443\u043a\u0430\u0437\u0430\u043d\u0430 \u0432 \u0421\u043f\u0438\u0441\u043a\u0438 \u0440\u0430\u0431\u043e\u0447\u0438\u0445 \u0438 \u0441\u043b\u0443\u0436\u0430\u0449\u0438\u0445 \u043f\u0440\u0435\u0434\u043f\u0440\u0438\u044f\u0442\u0438\u0439 \u0438 \u0443\u0447\u0440\u0435\u0436\u0434\u0435\u043d\u0438\u0439 \u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0430, \u043d\u0430\u0433\u0440\u0430\u0436\u0434\u0435\u043d\u043d\u044b\u0445 \u043c\u0435\u0434\u0430\u043b\u044c\u044e \u00ab\u0417\u0430 \u043e\u0431\u043e\u0440\u043e\u043d\u0443 \u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0430\u00bb, \u0422. 8:<br />\n\u0426\u0413\u0410 \u0421\u041f\u0431 \u0444.\u0420-7384 \u043e\u043f.38 \u0434.360 \u0441.125\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
@@ -2349,7 +2373,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-123
+127
 ],
 "place": 33,
 "text": "",
@@ -2369,7 +2393,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-125
+129
 ],
 "place": 11,
 "text": "",
@@ -2386,7 +2410,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-125
+129
 ],
 "place": 22,
 "text": "",
@@ -2403,7 +2427,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-126
+130
 ],
 "place": -1,
 "text": "",
@@ -2421,7 +2445,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-128
+132
 ],
 "place": -1,
 "text": "",
@@ -2438,7 +2462,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-128
+132
 ],
 "place": 57,
 "text": "",
@@ -2455,7 +2479,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-128
+132
 ],
 "place": -1,
 "text": "",
@@ -2472,7 +2496,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-128
+132
 ],
 "place": 33,
 "text": "",
@@ -2491,7 +2515,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-129
+133
 ],
 "place": 5,
 "text": "",
@@ -2506,7 +2530,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-129
+133
 ],
 "place": -1,
 "text": "",
@@ -2523,7 +2547,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-130
+134
 ],
 "place": 7,
 "text": "",
@@ -2540,7 +2564,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-131
+135
 ],
 "place": 5,
 "text": "",
@@ -2555,7 +2579,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-131
+135
 ],
 "place": -1,
 "text": "",
@@ -2570,8 +2594,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-131,
-138
+135,
+142
 ],
 "place": -1,
 "text": "",
@@ -2586,7 +2610,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-131
+135
 ],
 "place": 12,
 "text": "",
@@ -2603,7 +2627,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-132
+136
 ],
 "place": 5,
 "text": "",
@@ -2620,7 +2644,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-133
+137
 ],
 "place": 5,
 "text": "",
@@ -2639,7 +2663,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-134
+138
 ],
 "place": 5,
 "text": "",
@@ -2654,7 +2678,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-134
+138
 ],
 "place": -1,
 "text": "",
@@ -2669,7 +2693,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-134
+138
 ],
 "place": -1,
 "text": "<div>\n<i class=\"NoteType\">\n\u0417\u0430\u043c\u0435\u0442\u043a\u0430 \u043e \u0441\u043e\u0431\u044b\u0442\u0438\u0438\n</i>\n<div class=\"grampsstylednote\">\n<p>\n\u0414\u043e\u043b\u0436\u043d\u043e\u0441\u0442\u044c/\u0417\u0432\u0430\u043d\u0438\u0435 \u043c\u043b. \u0443\u043d\u0442\u0435\u0440-\u043e\u0444\u0438\u0446\u0435\u0440 <br />\n\u0412\u043e\u0438\u043d\u0441\u043a\u0430\u044f \u0447\u0430\u0441\u0442\u044c \u0413\u043e\u0441\u043f\u0438\u0442\u0430\u043b\u044c \u0420\u044f\u0437\u0430\u043d\u0441\u043a\u043e\u0439 \u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u043e\u0439 \u041e\u0431\u0449\u0438\u043d\u044b \u0441\u0435\u0441\u0442\u0435\u0440 \u043c\u0438\u043b\u043e\u0441\u0435\u0440\u0434\u0438\u044f <br />\n\u041d\u0430\u0438\u043c\u0435\u043d\u043e\u0432\u0430\u043d\u0438\u0435 \u043d\u0430\u0433\u0440\u0430\u0434\u044b \u0421\u0435\u0440\u0435\u0431\u0440\u044f\u043d\u0430\u044f \u043c\u0435\u0434\u0430\u043b\u044c \"\u0417\u0430 \u0443\u0441\u0435\u0440\u0434\u0438\u0435\" <br />\n\u041d\u043e\u043c\u0435\u0440 \u043f\u0440\u0438\u043a\u0430\u0437\u0430 947 <br />\n\u0414\u0430\u0442\u0430 \u043f\u0440\u0438\u043a\u0430\u0437\u0430 06.04.1915 <br />\n\u0410\u0432\u0442\u043e\u0440 \u043f\u0440\u0438\u043a\u0430\u0437\u0430 \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0440\u043e\u043d\u0442 <br />\n\u0422\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u041d\u0430\u0433\u0440\u0430\u0434\u043d\u0430\u044f \u043a\u0430\u0440\u0442\u043e\u0447\u043a\u0430<br />\n\u0410\u0440\u0445\u0438\u0432 \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0413\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0412\u043e\u0435\u043d\u043d\u043e-\u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0430\u0440\u0445\u0438\u0432 <br />\n\u0424\u043e\u043d\u0434 \u041a\u0430\u0440\u0442\u043e\u0442\u0435\u043a\u0430 \u0431\u044e\u0440\u043e \u0443\u0447\u0435\u0442\u0430 \u043f\u043e\u0442\u0435\u0440\u044c \u0432 \u041f\u0435\u0440\u0432\u043e\u0439 \u043c\u0438\u0440\u043e\u0432\u043e\u0439 \u0432\u043e\u0439\u043d\u0435 (\u043e\u0444\u0438\u0446\u0435\u0440\u043e\u0432 \u0438 \u0441\u043e\u043b\u0434\u0430\u0442)\n</p>\n</div>\n</div>",
@@ -2684,7 +2708,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 87,
+"m_idx": 91,
 "note": "",
 "rect": [
 0,
@@ -2696,7 +2720,7 @@ I_events_0 = [
 },
 {
 "cita": [],
-"m_idx": 88,
+"m_idx": 92,
 "note": "",
 "rect": [
 0,
@@ -2709,7 +2733,7 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-134
+138
 ],
 "place": -1,
 "text": "<div>\n<i class=\"NoteType\">\n\u0417\u0430\u043c\u0435\u0442\u043a\u0430 \u043e \u0441\u043e\u0431\u044b\u0442\u0438\u0438\n</i>\n<div class=\"grampsstylednote\">\n<p>\n\u0414\u043e\u043b\u0436\u043d\u043e\u0441\u0442\u044c/\u0417\u0432\u0430\u043d\u0438\u0435 \u043c\u043b. \u0443\u043d\u0442\u0435\u0440-\u043e\u0444\u0438\u0446\u0435\u0440 <br />\n\u0412\u043e\u0438\u043d\u0441\u043a\u0430\u044f \u0447\u0430\u0441\u0442\u044c \u0420\u044f\u0437\u0430\u043d\u0441\u043a\u0438\u0439 \u0433\u043e\u0441\u043f\u0438\u0442\u0430\u043b\u044c <br />\n\u041d\u0430\u0438\u043c\u0435\u043d\u043e\u0432\u0430\u043d\u0438\u0435 \u043d\u0430\u0433\u0440\u0430\u0434\u044b \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043c\u0435\u0434\u0430\u043b\u044c \"\u0417\u0430 \u0443\u0441\u0435\u0440\u0434\u0438\u0435\" <br />\n\u041d\u043e\u043c\u0435\u0440 \u043f\u0440\u0438\u043a\u0430\u0437\u0430 2534 <br />\n\u0414\u0430\u0442\u0430 \u043f\u0440\u0438\u043a\u0430\u0437\u0430 03.12.1915<br />\n \u0410\u0432\u0442\u043e\u0440 \u043f\u0440\u0438\u043a\u0430\u0437\u0430 \u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0440\u043e\u043d\u0442 <br />\n\u0422\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u041d\u0430\u0433\u0440\u0430\u0434\u043d\u0430\u044f \u043a\u0430\u0440\u0442\u043e\u0447\u043a\u0430<br />\n\u0410\u0440\u0445\u0438\u0432 \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0413\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0412\u043e\u0435\u043d\u043d\u043e-\u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0430\u0440\u0445\u0438\u0432 <br />\n\u0424\u043e\u043d\u0434 \u041a\u0430\u0440\u0442\u043e\u0442\u0435\u043a\u0430 \u0431\u044e\u0440\u043e \u0443\u0447\u0435\u0442\u0430 \u043f\u043e\u0442\u0435\u0440\u044c \u0432 \u041f\u0435\u0440\u0432\u043e\u0439 \u043c\u0438\u0440\u043e\u0432\u043e\u0439 \u0432\u043e\u0439\u043d\u0435 (\u043e\u0444\u0438\u0446\u0435\u0440\u043e\u0432 \u0438 \u0441\u043e\u043b\u0434\u0430\u0442)<br />\nhttps://gwar.mil.ru/heroes/chelovek_nagradnaya_kartochka45042985/\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
@@ -2729,7 +2753,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-138
+142
 ],
 "place": 29,
 "text": "",
@@ -2744,8 +2768,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-131,
-138
+135,
+142
 ],
 "place": -1,
 "text": "",
@@ -2760,7 +2784,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-138
+142
 ],
 "place": 26,
 "text": "<div>\n<p>\n<b>\u041f\u0440\u0438\u0447\u0438\u043d\u0430</b>: \u0430\u043b\u043a\u043e\u0433\u043e\u043b\u0438\u0437\u043c\n</p>\n</div>",
@@ -2784,7 +2808,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-146
+150
 ],
 "place": 39,
 "text": "",
@@ -2804,13 +2828,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-150
+154
 ],
 "place": -1,
 "text": "",
 "type": "\u0420\u043e\u0436\u0434\u0435\u043d\u0438\u0435"
 }
 ],
+[],
+[],
 [],
 [],
 [],
@@ -2826,7 +2852,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-154
+160
 ],
 "place": 39,
 "text": "",
@@ -2843,7 +2869,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-154
+160
 ],
 "place": 39,
 "text": "",
@@ -2862,7 +2888,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-155
+161
 ],
 "place": -1,
 "text": "",
@@ -2881,7 +2907,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-156
+162
 ],
 "place": -1,
 "text": "",
@@ -2901,7 +2927,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-158
+164
 ],
 "place": -1,
 "text": "",
@@ -2919,7 +2945,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-160
+166
 ],
 "place": 39,
 "text": "",
@@ -2938,7 +2964,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-161
+167
 ],
 "place": 39,
 "text": "<div>\n<i class=\"NoteType\">\n\u0417\u0430\u043c\u0435\u0442\u043a\u0430 \u043e \u0441\u043e\u0431\u044b\u0442\u0438\u0438\n</i>\n<div class=\"grampsstylednote\">\n<p>\n28 \u0438\u044e\u043b 1883 \u043f\u043e \u0434\u0430\u043d\u043d\u044b\u043c \u0441 myheritage - https://www.myheritage.com/site-family-tree-1127724371/\u0442\u0440\u0435\u0449\u0438\u043d\u0430?lang=RU\n</p>\n</div>\n</div>",
@@ -2955,7 +2981,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-161
+167
 ],
 "place": 53,
 "text": "<div>\n<p>\n<b>\u041a\u0440\u0435\u0441\u0442\u043d\u044b\u0439 \u043e\u0442\u0435\u0446</b>: \u0418\u0432\u0430\u043d \u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432\n</p>\n<p>\n<b>\u041a\u0440\u0435\u0441\u0442\u043d\u0430\u044f \u043c\u0430\u0442\u044c</b>: \u0443\u0432\u043e\u043b\u0435\u043d\u043d\u043e\u0433\u043e \u0432 \u0437\u0430\u043f\u0430\u0441 \u0430\u0440\u043c\u0438\u0438 (?) \u0418\u0432\u0430\u043d\u0430 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u0430 \u0417\u0438\u043c\u0438\u043d\u0430 \u0436\u0435\u043d\u0430 \u0415\u0432\u0434\u043e\u043a\u0438\u044f \u0418\u0432\u0430\u043d\u043e\u0432\u0430\n</p>\n</div>",
@@ -2963,7 +2989,7 @@ I_events_0 = [
 },
 {
 "cita": [
-76
+78
 ],
 "date": "5 \u0441\u0435\u043d 1914 (\u042e\u043b\u0438\u0430\u043d\u0441\u043a\u0438\u0439)",
 "date_sdn": 2420394,
@@ -2972,7 +2998,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-161
+167
 ],
 "place": -1,
 "text": "<div>\n<i class=\"NoteType\">\n\u0417\u0430\u043c\u0435\u0442\u043a\u0430 \u043e \u0441\u043e\u0431\u044b\u0442\u0438\u0438\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://gwar.mil.ru/heroes/chelovek_gospital20093827/\n</p>\n</div>\n</div>",
@@ -2987,7 +3013,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-161
+167
 ],
 "place": -1,
 "text": "",
@@ -3004,7 +3030,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-162
+168
 ],
 "place": 39,
 "text": "",
@@ -3019,7 +3045,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-162
+168
 ],
 "place": -1,
 "text": "",
@@ -3038,7 +3064,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-163
+169
 ],
 "place": -1,
 "text": "",
@@ -3055,7 +3081,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-164
+170
 ],
 "place": 39,
 "text": "",
@@ -3063,7 +3089,7 @@ I_events_0 = [
 },
 {
 "cita": [
-65
+66
 ],
 "date": "\u0441 1941 \u043f\u043e 9 \u0444\u0435\u0432 1945",
 "date_sdn": 2429996,
@@ -3072,7 +3098,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-164
+170
 ],
 "place": -1,
 "text": "",
@@ -3089,7 +3115,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-164
+170
 ],
 "place": -1,
 "text": "",
@@ -3097,7 +3123,7 @@ I_events_0 = [
 },
 {
 "cita": [
-69
+71
 ],
 "date": "5 \u0434\u0435\u043a 1944",
 "date_sdn": 2431430,
@@ -3106,7 +3132,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-164
+170
 ],
 "place": -1,
 "text": "",
@@ -3114,7 +3140,7 @@ I_events_0 = [
 },
 {
 "cita": [
-70
+72
 ],
 "date": "23 \u0444\u0435\u0432 1945",
 "date_sdn": 2431510,
@@ -3123,7 +3149,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 69,
+"m_idx": 73,
 "note": "",
 "rect": [
 0,
@@ -3136,7 +3162,7 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-164
+170
 ],
 "place": -1,
 "text": "",
@@ -3144,7 +3170,7 @@ I_events_0 = [
 },
 {
 "cita": [
-71
+73
 ],
 "date": "9 \u043c\u0430\u0439 1945",
 "date_sdn": 2431585,
@@ -3153,7 +3179,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 83,
+"m_idx": 87,
 "note": "",
 "rect": [
 0,
@@ -3166,7 +3192,7 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-164
+170
 ],
 "place": -1,
 "text": "",
@@ -3185,7 +3211,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-165
+171
 ],
 "place": -1,
 "text": "",
@@ -3202,7 +3228,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-165
+171
 ],
 "place": -1,
 "text": "",
@@ -3212,7 +3238,7 @@ I_events_0 = [
 [
 {
 "cita": [
-73
+75
 ],
 "date": "",
 "date_sdn": 0,
@@ -3221,7 +3247,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 82,
+"m_idx": 86,
 "note": "",
 "rect": [
 0,
@@ -3234,7 +3260,7 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-166
+172
 ],
 "place": -1,
 "text": "",
@@ -3242,7 +3268,7 @@ I_events_0 = [
 },
 {
 "cita": [
-74
+76
 ],
 "date": "",
 "date_sdn": 0,
@@ -3251,7 +3277,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 80,
+"m_idx": 84,
 "note": "",
 "rect": [
 0,
@@ -3264,7 +3290,7 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-166
+172
 ],
 "place": -1,
 "text": "",
@@ -3282,7 +3308,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-166
+172
 ],
 "place": 39,
 "text": "",
@@ -3290,7 +3316,7 @@ I_events_0 = [
 },
 {
 "cita": [
-64
+65
 ],
 "date": "19 \u0438\u044e\u043d 1945",
 "date_sdn": 2431626,
@@ -3299,7 +3325,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 81,
+"m_idx": 85,
 "note": "",
 "rect": [
 0,
@@ -3312,7 +3338,7 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-166
+172
 ],
 "place": -1,
 "text": "",
@@ -3320,7 +3346,7 @@ I_events_0 = [
 },
 {
 "cita": [
-72
+74
 ],
 "date": "19 \u043d\u043e\u044f 1951",
 "date_sdn": 2433970,
@@ -3329,7 +3355,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 79,
+"m_idx": 83,
 "note": "",
 "rect": [
 0,
@@ -3342,7 +3368,7 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-166
+172
 ],
 "place": -1,
 "text": "",
@@ -3350,7 +3376,7 @@ I_events_0 = [
 },
 {
 "cita": [
-68
+70
 ],
 "date": "6 \u0430\u043f\u0440 1985",
 "date_sdn": 2446162,
@@ -3359,7 +3385,7 @@ I_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 84,
+"m_idx": 88,
 "note": "",
 "rect": [
 0,
@@ -3372,7 +3398,7 @@ I_events_0 = [
 ],
 "part_family": [],
 "part_person": [
-166
+172
 ],
 "place": -1,
 "text": "",
@@ -3392,7 +3418,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-168
+174
 ],
 "place": -1,
 "text": "",
@@ -3411,7 +3437,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-169
+175
 ],
 "place": -1,
 "text": "",
@@ -3430,7 +3456,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-170
+176
 ],
 "place": -1,
 "text": "",
@@ -3449,7 +3475,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-171
+177
 ],
 "place": -1,
 "text": "",
@@ -3468,7 +3494,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-172
+178
 ],
 "place": -1,
 "text": "",
@@ -3487,7 +3513,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-173
+179
 ],
 "place": -1,
 "text": "",
@@ -3506,7 +3532,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-174
+180
 ],
 "place": -1,
 "text": "",
@@ -3525,7 +3551,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-177
+183
 ],
 "place": 39,
 "text": "",
@@ -3540,7 +3566,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-177
+183
 ],
 "place": 53,
 "text": "",
@@ -3555,7 +3581,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-177
+183
 ],
 "place": 39,
 "text": "<div>\n<p>\n<b>\u041f\u0440\u0438\u0447\u0438\u043d\u0430</b>: \u041d\u0435\u0443\u0434\u0430\u0447\u043d\u0430\u044f \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u044f, \"\u0437\u0430\u0432\u0430\u0440\u043e\u0442 \u043a\u0438\u0448\u043e\u043a\"\n</p>\n</div>",
@@ -3572,7 +3598,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-178
+184
 ],
 "place": -1,
 "text": "",
@@ -3591,7 +3617,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-179
+185
 ],
 "place": -1,
 "text": "",
@@ -3610,7 +3636,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-180
+186
 ],
 "place": 39,
 "text": "",
@@ -3625,7 +3651,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-180
+186
 ],
 "place": 39,
 "text": "<div>\n<p>\n<b>\u041a\u0440\u0435\u0441\u0442\u043d\u044b\u0439 \u043e\u0442\u0435\u0446</b>: \u0427\u0435\u0440\u043d\u043e\u0432 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0410\u043d\u0434\u0440\u0435\u0435\u0432\u0438\u0447\n</p>\n<p>\n<b>\u041a\u0440\u0435\u0441\u0442\u043d\u0430\u044f \u043c\u0430\u0442\u044c</b>: \u0413\u0430\u0440\u0438\u0431\u0438\u043d\u0430 \u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430 \u0418\u0432\u0430\u043d\u043e\u0432\u043d\u0430\n</p>\n</div>",
@@ -3640,7 +3666,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-180
+186
 ],
 "place": 14,
 "text": "",
@@ -3655,7 +3681,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-180
+186
 ],
 "place": 14,
 "text": "",
@@ -3674,7 +3700,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-181
+187
 ],
 "place": -1,
 "text": "",
@@ -3691,7 +3717,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-182
+188
 ],
 "place": -1,
 "text": "",
@@ -3706,7 +3732,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-182
+188
 ],
 "place": -1,
 "text": "",
@@ -3723,7 +3749,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-183
+189
 ],
 "place": -1,
 "text": "",
@@ -3738,13 +3764,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-183
+189
 ],
 "place": -1,
 "text": "",
 "type": "\u0421\u043c\u0435\u0440\u0442\u044c"
 }
 ],
+[],
+[],
 [
 {
 "cita": [],
@@ -3755,7 +3783,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-184
+192
 ],
 "place": -1,
 "text": "",
@@ -3770,7 +3798,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-184
+192
 ],
 "place": -1,
 "text": "",
@@ -3780,14 +3808,14 @@ I_events_0 = [
 [
 {
 "cita": [],
-"date": "",
-"date_sdn": 0,
+"date": "1878",
+"date_sdn": 2406986,
 "descr": "",
 "gid": "E10028",
 "media": [],
 "part_family": [],
 "part_person": [
-185
+193
 ],
 "place": -1,
 "text": "",
@@ -3795,19 +3823,35 @@ I_events_0 = [
 },
 {
 "cita": [],
-"date": "",
-"date_sdn": 0,
+"date": "1948",
+"date_sdn": 2432552,
 "descr": "",
 "gid": "E10029",
 "media": [],
 "part_family": [],
 "part_person": [
-185
+193
 ],
 "place": -1,
 "text": "",
 "type": "\u0421\u043c\u0435\u0440\u0442\u044c"
+},
+{
+"cita": [],
+"date": "",
+"date_sdn": 0,
+"descr": "\u041c\u0430\u043a\u043b\u0430\u043a \u2014 \u043d\u0430\u0447\u0430\u043b\u044c\u043d\u0438\u043a \u0441\u0438\u043d\u0430\u0433\u043e\u0433\u0438",
+"gid": "E10030",
+"media": [],
+"part_family": [],
+"part_person": [
+193
+],
+"place": -1,
+"text": "",
+"type": "\u0414\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c"
 }
-]
+],
+[]
 ]
 Dwr.ScriptLoaded('dwr_db_I_events_0.js');

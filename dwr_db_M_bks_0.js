@@ -7,6 +7,20 @@ M_bks_0 = [
 "cita": [],
 "note": "",
 "rect": [
+7,
+57,
+50,
+94
+],
+"thumb": "thumb/9/0/101ec44dc6521007d92b9dbdc309-7,57-50,94.png"
+}
+],
+[
+{
+"bk_idx": 17,
+"cita": [],
+"note": "",
+"rect": [
 0,
 0,
 100,
@@ -214,6 +228,34 @@ M_bks_0 = [
 ],
 [
 {
+"bk_idx": 48,
+"cita": [],
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/a/f/101ecee3fd053d68d64f3270f2fa.png"
+}
+],
+[
+{
+"bk_idx": 48,
+"cita": [],
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/e/7/101ecee5b0a84582ab0cc0090a7e.png"
+}
+],
+[
+{
 "bk_idx": 32,
 "cita": [],
 "note": "",
@@ -329,6 +371,7 @@ M_bks_0 = [
 "thumb": "thumb/e/9/f9b35c257c7732373fe120ac49e-7,50-84,87.png"
 }
 ],
+[],
 [],
 [
 {

@@ -14,6 +14,7 @@ F_events_0 = [
 [],
 [],
 [],
+[],
 [
 {
 "cita": [
@@ -45,7 +46,7 @@ F_events_0 = [
 "media": [
 {
 "cita": [],
-"m_idx": 50,
+"m_idx": 54,
 "note": "",
 "rect": [
 0,
@@ -71,7 +72,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-31
+33
 ],
 "place": 38,
 "text": "",
@@ -148,6 +149,7 @@ F_events_0 = [
 "type": "\u0411\u0440\u0430\u043a"
 }
 ],
+[],
 [],
 [],
 [],
@@ -260,8 +262,8 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-131,
-138
+135,
+142
 ],
 "place": -1,
 "text": "",
@@ -307,6 +309,7 @@ F_events_0 = [
 ],
 [],
 [],
+[],
 [
 {
 "cita": [
@@ -343,6 +346,7 @@ F_events_0 = [
 "type": "\u0411\u0440\u0430\u043a"
 }
 ],
+[],
 [],
 [],
 [],
