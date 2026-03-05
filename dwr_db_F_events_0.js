@@ -233,6 +233,7 @@ F_events_0 = [
 [],
 [],
 [],
+[],
 [
 {
 "cita": [
@@ -262,8 +263,8 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-135,
-142
+138,
+145
 ],
 "place": -1,
 "text": "",
