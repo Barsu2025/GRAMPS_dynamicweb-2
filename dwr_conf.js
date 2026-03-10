@@ -7,14 +7,14 @@ DWR_VERSION_500 = true;
 TITLE = "ΟΙΚΟΓΈΝΕΙΑ";
 SPLIT = 5000;
 DB_SIZES = {
-    "C": 79,
-    "F": 83,
-    "I": 198,
-    "M": 127,
+    "C": 82,
+    "F": 85,
+    "I": 203,
+    "M": 129,
     "N": 35,
     "P": 61,
     "R": 24,
-    "S": 51
+    "S": 53
 };NB_GENERATIONS_MAX = 10;
 PAGES_FILE = ["index.html", "", "tree_svg.html"];
 PAGES_TITLE = ["Домой", "Индексы", "Древо"];

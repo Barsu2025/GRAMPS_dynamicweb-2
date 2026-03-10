@@ -129,7 +129,7 @@ M_bks_0 = [
 ],
 [
 {
-"bk_idx": 46,
+"bk_idx": 47,
 "cita": [],
 "note": "",
 "rect": [
@@ -228,7 +228,7 @@ M_bks_0 = [
 ],
 [
 {
-"bk_idx": 48,
+"bk_idx": 49,
 "cita": [],
 "note": "",
 "rect": [
@@ -242,7 +242,7 @@ M_bks_0 = [
 ],
 [
 {
-"bk_idx": 48,
+"bk_idx": 49,
 "cita": [],
 "note": "",
 "rect": [
@@ -317,7 +317,7 @@ M_bks_0 = [
 [],
 [
 {
-"bk_idx": 34,
+"bk_idx": 35,
 "cita": [],
 "note": "",
 "rect": [
@@ -331,7 +331,7 @@ M_bks_0 = [
 ],
 [
 {
-"bk_idx": 34,
+"bk_idx": 35,
 "cita": [],
 "note": "",
 "rect": [
@@ -359,7 +359,7 @@ M_bks_0 = [
 ],
 [
 {
-"bk_idx": 39,
+"bk_idx": 40,
 "cita": [],
 "note": "",
 "rect": [
@@ -375,7 +375,7 @@ M_bks_0 = [
 [],
 [
 {
-"bk_idx": 37,
+"bk_idx": 38,
 "cita": [],
 "note": "",
 "rect": [
@@ -418,7 +418,7 @@ M_bks_0 = [
 ],
 [
 {
-"bk_idx": 47,
+"bk_idx": 48,
 "cita": [],
 "note": "",
 "rect": [
@@ -477,7 +477,7 @@ M_bks_0 = [
 [],
 [
 {
-"bk_idx": 36,
+"bk_idx": 37,
 "cita": [],
 "note": "",
 "rect": [
@@ -495,7 +495,7 @@ M_bks_0 = [
 [],
 [
 {
-"bk_idx": 45,
+"bk_idx": 46,
 "cita": [],
 "note": "",
 "rect": [
@@ -554,7 +554,7 @@ M_bks_0 = [
 [],
 [
 {
-"bk_idx": 44,
+"bk_idx": 45,
 "cita": [],
 "note": "",
 "rect": [
@@ -568,7 +568,7 @@ M_bks_0 = [
 ],
 [
 {
-"bk_idx": 43,
+"bk_idx": 44,
 "cita": [],
 "note": "",
 "rect": [
@@ -582,7 +582,7 @@ M_bks_0 = [
 ],
 [
 {
-"bk_idx": 43,
+"bk_idx": 44,
 "cita": [],
 "note": "",
 "rect": [
@@ -596,7 +596,7 @@ M_bks_0 = [
 ],
 [
 {
-"bk_idx": 43,
+"bk_idx": 44,
 "cita": [],
 "note": "",
 "rect": [
@@ -739,6 +739,20 @@ M_bks_0 = [
 100
 ],
 "thumb": "thumb/7/2/f909a691af03cdbe288d8f49e27.png"
+}
+],
+[
+{
+"bk_idx": 34,
+"cita": [],
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/3/a/102060816364557168dbfa282da3.png"
 }
 ],
 [],
@@ -910,6 +924,20 @@ M_bks_0 = [
 "thumb": "thumb/3/6/f932cb3719765d6fe8994b9ca63.png"
 }
 ],
+[
+{
+"bk_idx": 34,
+"cita": [],
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/b/d/102061d1cebea0aec595fd631db.png"
+}
+],
 [],
 [],
 [],
@@ -922,7 +950,7 @@ M_bks_0 = [
 [],
 [
 {
-"bk_idx": 38,
+"bk_idx": 39,
 "cita": [],
 "note": "",
 "rect": [
@@ -983,7 +1011,7 @@ M_bks_0 = [
 [],
 [
 {
-"bk_idx": 42,
+"bk_idx": 43,
 "cita": [],
 "note": "",
 "rect": [
@@ -997,7 +1025,7 @@ M_bks_0 = [
 ],
 [
 {
-"bk_idx": 41,
+"bk_idx": 42,
 "cita": [],
 "note": "",
 "rect": [
@@ -1011,7 +1039,7 @@ M_bks_0 = [
 ],
 [
 {
-"bk_idx": 41,
+"bk_idx": 42,
 "cita": [],
 "note": "",
 "rect": [

@@ -260,6 +260,14 @@ S_repo_0 = [
 "r_idx": 1
 }
 ],
+[
+{
+"call_number": "",
+"media_type": "\u041a\u043d\u0438\u0433\u0430",
+"note": "",
+"r_idx": 1
+}
+],
 [],
 [
 {
@@ -380,6 +388,7 @@ S_repo_0 = [
 "note": "",
 "r_idx": 13
 }
-]
+],
+[]
 ]
 Dwr.ScriptLoaded('dwr_db_S_repo_0.js');

@@ -45,6 +45,12 @@ R_bks_0 = [
 "media_type": "\u041a\u043d\u0438\u0433\u0430",
 "note": "",
 "s_idx": 34
+},
+{
+"call_number": "",
+"media_type": "\u041a\u043d\u0438\u0433\u0430",
+"note": "",
+"s_idx": 35
 }
 ],
 [
@@ -68,7 +74,7 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "\u041a\u0430\u0440\u0442\u043e\u0447\u043a\u0430",
 "note": "",
-"s_idx": 44
+"s_idx": 45
 }
 ],
 [
@@ -90,7 +96,7 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "\u041a\u043d\u0438\u0433\u0430",
 "note": "",
-"s_idx": 47
+"s_idx": 48
 }
 ],
 [
@@ -110,13 +116,13 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "\u041a\u043d\u0438\u0433\u0430",
 "note": "",
-"s_idx": 42
+"s_idx": 43
 },
 {
 "call_number": "",
 "media_type": "\u041a\u043d\u0438\u0433\u0430",
 "note": "",
-"s_idx": 45
+"s_idx": 46
 }
 ],
 [
@@ -132,7 +138,7 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "\u041a\u043d\u0438\u0433\u0430",
 "note": "",
-"s_idx": 39
+"s_idx": 40
 }
 ],
 [
@@ -176,13 +182,13 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "\u041a\u043d\u0438\u0433\u0430",
 "note": "",
-"s_idx": 40
+"s_idx": 41
 },
 {
 "call_number": "",
 "media_type": "\u041a\u043d\u0438\u0433\u0430",
 "note": "",
-"s_idx": 50
+"s_idx": 51
 }
 ],
 [
@@ -190,13 +196,13 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "\u041a\u043d\u0438\u0433\u0430",
 "note": "",
-"s_idx": 38
+"s_idx": 39
 },
 {
 "call_number": "",
 "media_type": "\u041a\u043d\u0438\u0433\u0430",
 "note": "",
-"s_idx": 46
+"s_idx": 47
 }
 ],
 [
@@ -242,7 +248,7 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "\u041a\u043d\u0438\u0433\u0430",
 "note": "",
-"s_idx": 43
+"s_idx": 44
 }
 ],
 [
@@ -294,19 +300,19 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "\u041a\u043d\u0438\u0433\u0430",
 "note": "",
-"s_idx": 36
-},
-{
-"call_number": "",
-"media_type": "\u041a\u043d\u0438\u0433\u0430",
-"note": "",
 "s_idx": 37
 },
 {
 "call_number": "",
 "media_type": "\u041a\u043d\u0438\u0433\u0430",
 "note": "",
-"s_idx": 48
+"s_idx": 38
+},
+{
+"call_number": "",
+"media_type": "\u041a\u043d\u0438\u0433\u0430",
+"note": "",
+"s_idx": 49
 }
 ],
 [
@@ -320,7 +326,7 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "\u041a\u0430\u0440\u0442\u043e\u0447\u043a\u0430",
 "note": "",
-"s_idx": 49
+"s_idx": 50
 }
 ],
 [
@@ -328,7 +334,7 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "\u0413\u0430\u0437\u0435\u0442\u0430",
 "note": "",
-"s_idx": 41
+"s_idx": 42
 }
 ]
 ]
