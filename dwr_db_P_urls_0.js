@@ -75,6 +75,7 @@ P_urls_0 = [
 [],
 [],
 [],
+[],
 [
 {
 "descr": "",
@@ -118,6 +119,7 @@ P_urls_0 = [
 "uri": "https://www.geonames.org/497757/selishche.html"
 }
 ],
+[],
 [],
 [],
 [],
