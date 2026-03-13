@@ -53,7 +53,7 @@ M_bkp_0 = [
 [],
 [
 {
-"bk_idx": 54,
+"bk_idx": 55,
 "cita": [],
 "note": "",
 "rect": [
@@ -67,7 +67,7 @@ M_bkp_0 = [
 ],
 [
 {
-"bk_idx": 56,
+"bk_idx": 57,
 "cita": [],
 "note": "",
 "rect": [
@@ -81,7 +81,7 @@ M_bkp_0 = [
 ],
 [
 {
-"bk_idx": 54,
+"bk_idx": 55,
 "cita": [],
 "note": "",
 "rect": [
@@ -137,7 +137,7 @@ M_bkp_0 = [
 [],
 [
 {
-"bk_idx": 58,
+"bk_idx": 59,
 "cita": [],
 "note": "",
 "rect": [
@@ -151,7 +151,7 @@ M_bkp_0 = [
 ],
 [
 {
-"bk_idx": 58,
+"bk_idx": 59,
 "cita": [],
 "note": "",
 "rect": [
@@ -189,7 +189,7 @@ M_bkp_0 = [
 [],
 [
 {
-"bk_idx": 57,
+"bk_idx": 58,
 "cita": [],
 "note": "",
 "rect": [
@@ -205,7 +205,7 @@ M_bkp_0 = [
 [],
 [
 {
-"bk_idx": 56,
+"bk_idx": 57,
 "cita": [],
 "note": "",
 "rect": [
@@ -274,11 +274,54 @@ M_bkp_0 = [
 [],
 [],
 [],
+[
+{
+"bk_idx": 54,
+"cita": [],
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/0/3/1020d74947d11a8995d1d2081b30.png"
+}
+],
+[
+{
+"bk_idx": 54,
+"cita": [],
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/7/4/1020d7481d6259b53dce53162747.png"
+}
+],
+[
+{
+"bk_idx": 54,
+"cita": [],
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/4/0/1020d7473def3b3563fbbfe58f04.png"
+}
+],
+[],
 [],
 [],
 [
 {
-"bk_idx": 55,
+"bk_idx": 56,
 "cita": [],
 "note": "",
 "rect": [
@@ -292,7 +335,7 @@ M_bkp_0 = [
 ],
 [
 {
-"bk_idx": 55,
+"bk_idx": 56,
 "cita": [],
 "note": "",
 "rect": [
@@ -313,7 +356,7 @@ M_bkp_0 = [
 [],
 [
 {
-"bk_idx": 57,
+"bk_idx": 58,
 "cita": [],
 "note": "",
 "rect": [
